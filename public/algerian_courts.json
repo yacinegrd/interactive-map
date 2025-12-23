@@ -1,0 +1,2434 @@
+[
+  {
+    "name": "Adrar",
+    "telephone": "040.00.00.00 / 040.00.02.61",
+    "email": "c-adrar@mjustice.dz",
+    "reception_days": "Président de la Cour : Lundi – Mercredi et tous les jours de la semaine dans les cas urgents. Procureur général : Mercredi et tous les jours de la semaine dans les cas urgents.",
+    "address": "Rue Mohamed El Atchane Adrar.",
+    "website": "https://courdadrar.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "15",
+        "name": "Tribunal d'Adrar",
+        "telephone": "049.36.44.03 / 049-36-43-98",
+        "email": "tr01adrar@mjustice.dz",
+        "address": "Route de l'établissement hospitalier (ibn sina) d'Adrar.",
+        "reception_days": "Lundi et tous les jours en cas d'urgence"
+      },
+      {
+        "id": "16",
+        "name": "Tribunal  de Timimoun",
+        "telephone": "/",
+        "email": "tr01timimoun@mjustice.dz",
+        "address": "Rue du 1er Novembre. Centre ville",
+        "reception_days": "Procureur de la République : Dimanche et Jeudi.  Président du Tribunal : Lundi."
+      },
+      {
+        "id": "17",
+        "name": "Tribunal de Reggane",
+        "telephone": "049.34.73.89",
+        "email": "tr01reggen@mjustice.dz",
+        "address": "Cité du 13 février 1960. Ville de Reggane",
+        "reception_days": "Tous les jours de la semaine."
+      },
+      {
+        "id": "18",
+        "name": "Tribunal d'Aoulef",
+        "telephone": "049.32.87.59 / 049.32.87.42",
+        "email": "tr01aoulf@mjustice.dz",
+        "address": "Rue Al-Mujahid Mammoush, Mohamed Zaouia, Hinoun aoulf",
+        "reception_days": "Tous les jours de la semaine."
+      },
+      {
+        "id": "255",
+        "name": "Annexe Bordj Badji Mokhtar",
+        "telephone": "049.32.98.34",
+        "email": "tr01bbmokhtar@mjustice.dz",
+        "address": "Le nouveau quartier, Bordj Badji Mokhtar",
+        "reception_days": "Tous les jours de la semaine."
+      }
+    ],
+    "id": "DZ-01"
+  },
+  {
+    "name": "Chlef",
+    "telephone": "020.64.24.32 / 020.64.29.88",
+    "email": "c-chlef@mjustice.dz",
+    "reception_days": "Président de la Cour : Mercredi.",
+    "address": "Route El Mahadjir. Chlef.",
+    "website": "https://cour-chlef.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "46",
+        "name": "Tribunal de Chlef",
+        "telephone": "020.64.26.61",
+        "email": "tr02chlef@mjustice.dz",
+        "address": "Chlef.",
+        "reception_days": "Procureur de la République : Tous les jours de la semaine (sauf vendredi et samedi)."
+      },
+      {
+        "id": "47",
+        "name": "Tribunal de Tenes",
+        "telephone": "027.76.73.50",
+        "email": "tr02tenes@mjustice.dz",
+        "address": "Rue Allal Brahim. Tenes",
+        "reception_days": "Président du Tribunal : Mercredi."
+      },
+      {
+        "id": "48",
+        "name": "Tribunal de Boukadir",
+        "telephone": "027.74.16.79",
+        "email": "tr02boukadir@mjustice.dz",
+        "address": "Quartier de la place municipale. Boukadir.",
+        "reception_days": "Procureur de la République : Mardi."
+      },
+      {
+        "id": "301",
+        "name": "Annexe Aïn Merane",
+        "telephone": "027.42.99.18",
+        "email": "tr02ainmerane@mjustice.dz",
+        "address": "Aïn Merane centre.",
+        "reception_days": "Procureur de la République adjoint: Mardi."
+      },
+      {
+        "id": "302",
+        "name": "Annexe Chettia",
+        "telephone": "027.73.99.60 / 027.73.42.86",
+        "email": "tr02chetia@mjustice.dz",
+        "address": "Chlef.",
+        "reception_days": "Président du Tribunal : Mardi."
+      }
+    ],
+    "id": "DZ-02"
+  },
+  {
+    "name": "Laghouat",
+    "telephone": "029.13.20.42",
+    "email": "c-laghouat@mjustice.dz",
+    "reception_days": "Lundi.",
+    "address": "Cité Bouameur. El Maamoura. Laghouat.",
+    "website": "https://courdelaghouat.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "37",
+        "name": "Tribunal de Laghouat",
+        "telephone": "029.12.82.80 / 029.12.82.81",
+        "email": "tr03laghouat@mjustice.dz",
+        "address": "Cité Bouameur. El Maamoura. Laghouat.",
+        "reception_days": "Lundi."
+      },
+      {
+        "id": "38",
+        "name": "Tribunal d'Aflou",
+        "telephone": "029.16.69.09",
+        "email": "tr03aflou@mjustice.dz",
+        "address": "Rue Frantz Fanon. Aflou.",
+        "reception_days": "Procureur de la République: Lundi."
+      },
+      {
+        "id": "312",
+        "name": "Tribunal d’ain-madhi",
+        "telephone": "029.13.09.28",
+        "email": "tr03ainmadhi@mjustice.dz",
+        "address": "Rue 1 novembre 1954 l’entrée d’ain-madhi.",
+        "reception_days": "Procureur de la République : Lundi."
+      }
+    ],
+    "id": "DZ-03"
+  },
+  {
+    "name": "Oum El Bouaghi",
+    "telephone": "032.42.22.00",
+    "email": "c-oumelbouaghi@mjustice.dz",
+    "reception_days": "Dimanche - Mardi - Jeudi.",
+    "address": "Rue du 1er novembre. Oum El Bouaghi.",
+    "website": "https://courdoumelbouaghi.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "40",
+        "name": "Tribunal d'Oum El Bouaghi",
+        "telephone": "032.56.59.99 / 032.56.59.46",
+        "email": "tr04oumelbouaghi@mjustice.dz",
+        "address": "Rue Houari Boumediene - Oum El Bouaghi.",
+        "reception_days": "Procureur de la République : Lundi - Mercredi (pour les cas urgents, la réception est assurée tous les jours de la semaine)."
+      },
+      {
+        "id": "41",
+        "name": "Tribunal d'Aïn Béïda",
+        "telephone": "032.68.94.90",
+        "email": "tr04ainbeida@mjustice.dz",
+        "address": "Cité Kanouni Taïb. Aïn Béïda. Oum-El-Bouaghi.",
+        "reception_days": "Procureur général: Lundi et tous les jours de la semaine dans les cas urgents.Président du Tribunal: Mercredi."
+      },
+      {
+        "id": "42",
+        "name": "Tribunal d'Aïn M'lila",
+        "telephone": "032.50.80.78",
+        "email": "tr04ainmlila@mjustice.dz",
+        "address": "Cité Ghazali Messaoud. d'Aïn M'lila.",
+        "reception_days": "Tous les jours de la semaine."
+      },
+      {
+        "id": "227",
+        "name": "Tribunal de Meskiana",
+        "telephone": "032.66.21.98",
+        "email": "tr04meskiana@mjustice.dz",
+        "address": "Boulevard Radji Ammar. Meskiana.",
+        "reception_days": "Procureur de la République : Tous les jours de la semaine."
+      },
+      {
+        "id": "228",
+        "name": "Tribunal d'Aïn Fakroun",
+        "telephone": "0.32.40.10.77",
+        "email": "tr04ainfakroun@mjustice.dz",
+        "address": "Rue Sofiane Chaabane. Aïn Fakroun.",
+        "reception_days": "Tous les jours de la semaine."
+      }
+    ],
+    "id": "DZ-04"
+  },
+  {
+    "name": "Batna",
+    "telephone": "033.31.92.76 / 033.31.92.77",
+    "email": "c-batna@mjustice.dz",
+    "reception_days": "Président du Tribunal : Mardi et tous les jours de la semaine dans les cas urgents.Procureur général : Lundi et tous les jours de la semaine par le procureur général adjoint.",
+    "address": "Route de Biskra. Batna 05000. Algérie.",
+    "website": "https://courdebatna.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "145",
+        "name": "Tribunal de Batna",
+        "telephone": "033.80.67.30",
+        "email": "tr05batna@mjustice.dz",
+        "address": "Rue Larbi Tebessi. Batna 05000. Algérie.",
+        "reception_days": "Procureur de la République : Mardi et le reste de la semaine par le procureur de la République adjoint.Président du Tribunal : Dimanche et le reste de la semaine dans les cas urgents."
+      },
+      {
+        "id": "146",
+        "name": "Tribunal d'Arris",
+        "telephone": "033.34.50.60",
+        "email": "tr05aris@mjustice.dz",
+        "address": "Cité Draa Zitoun. Arris 05000. Algérie.",
+        "reception_days": "Procureur de la République : Mardi et le reste de la semaine par le procureur de la République adjoint.Président du Tribunal : Lundi et tous les jours de la semaine dans les cas urgents."
+      },
+      {
+        "id": "147",
+        "name": "Tribunal d'Aïn Touta",
+        "telephone": "033.35.52.02",
+        "email": "tr05aintouta@mjustice.dz",
+        "address": "Rue Salah Laala. Aïn Touta 05000. Algérie.",
+        "reception_days": "Procureur de la République : Dimanche – Mercredi et le reste de la semaine par le procureur de la République adjoint."
+      },
+      {
+        "id": "148",
+        "name": "Tribunal de Barika",
+        "telephone": "033.38.90.53",
+        "email": "tr05barika@mjustice.dz",
+        "address": "Rue Bouradi Ismaïl Barika 05000. Algérie.",
+        "reception_days": "Procureur de la République : Mardi et le reste de la semaine par le procureur de la République adjoint."
+      },
+      {
+        "id": "149",
+        "name": "Tribunal de N'Gaous",
+        "telephone": "033.36.26.85",
+        "email": "tr05ngaous@mjustice.dz",
+        "address": "Cité Ras El Aïn. N'Gaous 05000. Algérie.",
+        "reception_days": "Procureur de la République : Lundi et le reste de la semaine par le procureur de la République adjoint."
+      },
+      {
+        "id": "150",
+        "name": "Tribunal de Seriana",
+        "telephone": "033.26.53.53",
+        "email": "tr05seriana@mjustice.dz",
+        "address": "Rue, Ahmed Meziane. Seriana.",
+        "reception_days": "Procureur de la République : Mardi et le reste de la semaine par le procureur de la République adjoint.Président du Tribunal : Mercredi."
+      },
+      {
+        "id": "151",
+        "name": "Annexe Ras El Aioun",
+        "telephone": "033.37.27.79",
+        "email": "tr05rasalayoun@mjustice.dz",
+        "address": "Cité des 150 logements, Ras El Aioun. N'Gaous. 05000. Algérie.",
+        "reception_days": "Président : Dimanche."
+      },
+      {
+        "id": "266",
+        "name": "Tribunal de Merouana",
+        "telephone": "033.36.84.65",
+        "email": "tr05marouana@mjustice.dz",
+        "address": "Route El-Ksar. Merouana. Batna.",
+        "reception_days": "Procureur de la République : Dimanche et tous les jours de la semaine si nécessaire. (Le reste de la semaine par le procureur de la République adjoint)."
+      }
+    ],
+    "id": "DZ-05"
+  },
+  {
+    "name": "Béjaïa",
+    "telephone": "034.12.97.55 / 034.12.97.56",
+    "email": "c-bejaia@mjustice.dz",
+    "reception_days": "Président de la Cour : Mercredi.  Procureur Général : Tous les jours de la semaine sauf vendredi et samedi.",
+    "address": "Cité Toubal. Béjaïa.",
+    "website": "https://cour-bejaia.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "161",
+        "name": "Tribunal de Béjaïa",
+        "telephone": "034.16.08.31",
+        "email": "tr06bejaia@mjustice.dz",
+        "address": "Tribunal de Béjaïa.",
+        "reception_days": "Procureur de la République : Tous les jours, sauf : vendredi et samedi."
+      },
+      {
+        "id": "162",
+        "name": "Tribunal d'Amizour",
+        "telephone": "034.82.42.46",
+        "email": "tr06amizour@mjustice.dz",
+        "address": "Tribunal d'Amizour.",
+        "reception_days": "Lundi."
+      },
+      {
+        "id": "163",
+        "name": "Tribunal d'Akbou",
+        "telephone": "034.33.44.90",
+        "email": "tr06akbou@mjustice.dz",
+        "address": "Cité de l'Armée de Libération Nationale. Akbou.",
+        "reception_days": "Procureur de la République : Mercredi.  /  Président du Tribunal : Mardi."
+      },
+      {
+        "id": "164",
+        "name": "Tribunal de Sidi-Aich",
+        "telephone": "034.26.38.01",
+        "email": "tr06sidiaich@mjustice.dz",
+        "address": "Tribunal de Sidi-Aich.",
+        "reception_days": "Mardi."
+      },
+      {
+        "id": "165",
+        "name": "Tribunal de Kherrata",
+        "telephone": "034.39.22.35",
+        "email": "tr06kherata@mjustice.dz",
+        "address": "Tribunal de Kherrata.",
+        "reception_days": "Procureur de la République : Tous les jours, sauf : vendredi et samedi."
+      },
+      {
+        "id": "318",
+        "name": "Annexe Tazmalt",
+        "telephone": "034.08.42.87",
+        "email": "tr06tazmalt@mjustice.dz",
+        "address": "Cité de l’Horloge.Tazmalt, Centre de la wilaya de Béjaïa.",
+        "reception_days": "Procureur de la République : Mercredi et cas urgents tous les jours.Président du Tribunal : Mardi et cas urgents tous les jours.Président de l’annexe: Mercredi."
+      },
+      {
+        "id": "319",
+        "name": "Annexe El-Kseur",
+        "telephone": "034.82.23.24",
+        "email": "tr06elkseur@mjustice.dz",
+        "address": "Rue Baba Aissa El Kseur. wilaya de Béjaïa.",
+        "reception_days": "Lundi."
+      }
+    ],
+    "id": "DZ-06"
+  },
+  {
+    "name": "Biskra",
+    "telephone": "033.65.62.39 / 033.65.62.44",
+    "email": "c-biskra@mjustice.dz",
+    "reception_days": "Président de la Cour : Dimanche. Procureur général : Dimanche et mercredi et tous les jours dans les cas urgents.",
+    "address": "Cour de Biskra.",
+    "website": "https://courdebiskra.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "152",
+        "name": "Tribunal de Biskra",
+        "telephone": "033.53.10.90 / 033.53.10.87",
+        "email": "tr07biskra@mjustice.dz",
+        "address": "Tribunal de Biskra. Route de Sidi Okba.",
+        "reception_days": "Procureur de la République: Lundi et mardi et tous les jours dans les cas d'urgence."
+      },
+      {
+        "id": "153",
+        "name": "Tribunal de Sidi Okba",
+        "telephone": "033.64.02.36",
+        "email": "tr07sidiokba@mjustice.dz",
+        "address": "Rue Khettab Abdelhafid. Sidi Okba.",
+        "reception_days": "Procureur de la République : Mardi (et tous les jours en cas d'urgence)."
+      },
+      {
+        "id": "154",
+        "name": "Tribunal de Tolga",
+        "telephone": "033.59.41.84",
+        "email": "tr07tolga@mjustice.dz",
+        "address": "Boulevard Si El Houas. Tolga.",
+        "reception_days": "Procureur de la République: Mardi et tous les jours dans les cas d'urgence. Président du Tribunal : Mardi et mercredi."
+      },
+      {
+        "id": "155",
+        "name": "Tribunal d'Ouled Djellal",
+        "telephone": "033.66.37.80",
+        "email": "tr07ouleddjellal@mjustice.dz",
+        "address": "Rue du 1er novembre. Ouled Djellal.",
+        "reception_days": "Procureur de la République : Mercredi.  Président du Tribunal : Lundi."
+      }
+    ],
+    "id": "DZ-07"
+  },
+  {
+    "name": "Bechar",
+    "telephone": "049.23.46.36 / 049.23.46.38",
+    "email": "c-bechar@mjustice.dz",
+    "reception_days": "Procureur Général : Mardi.",
+    "address": "Rue colonel Chabou. Bechar.",
+    "website": "https://courdebechar.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "213",
+        "name": "Tribunal de Bechar",
+        "telephone": "049.22.12.49",
+        "email": "tr08bechar@mjustice.dz",
+        "address": "Rue Taleb Abdellah. Centre-ville. Bechar.",
+        "reception_days": "Procureur de la République : Lundi."
+      },
+      {
+        "id": "214",
+        "name": "Tribunal de Béni Abbès",
+        "telephone": "049.28.47.85",
+        "email": "tr08beniabbes@mjustice.dz",
+        "address": "Cité Medjroud Ali. Béni Abbès.",
+        "reception_days": "Procureur de la République : Mardi."
+      },
+      {
+        "id": "216",
+        "name": "Tribunal d'Abadla",
+        "telephone": "049.25.71.36",
+        "email": "tr08abadla@mjustice.dz",
+        "address": "Cité Essalem. Abadla. Béchar.",
+        "reception_days": "Procureur de la République : Dimanche et mardi."
+      },
+      {
+        "id": "217",
+        "name": "Tribunal Annexe Beni Ounif",
+        "telephone": "049.25.22.79",
+        "email": "tr08beniounif@mjustice.dz",
+        "address": "Centre-ville. Beni Ounif.",
+        "reception_days": "Procureur de la République : Tous les jours."
+      },
+      {
+        "id": "233",
+        "name": "Tribunal Annexe Kerzaz",
+        "telephone": "049.29.88.35",
+        "email": "tr08kerzaz@mjustice.dz",
+        "address": "Kerzaz centre.",
+        "reception_days": "Tous les jours."
+      },
+      {
+        "id": "234",
+        "name": "Tribunal Annexe Tabelbala",
+        "telephone": "049.27.08.97",
+        "email": "tr08tebelbala@mjustice.dz",
+        "address": "Cité du centre. Tabelbala.",
+        "reception_days": "Procureur de la République : Lundi et mardi."
+      }
+    ],
+    "id": "DZ-08"
+  },
+  {
+    "name": "Blida",
+    "telephone": "025.23.38.17 / 025.23.38.18",
+    "email": "c-blida@mjustice.dz",
+    "reception_days": "Procureur Général : Lundi.",
+    "address": "Rue du 11 Décembre 1960, Sidi Abdelkader. Blida.",
+    "website": "https://cour-blida.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "199",
+        "name": "Tribunal de Blida",
+        "telephone": "025.23.36.71",
+        "email": "tr09blida@mjustice.dz",
+        "address": "Rue du 11 Décembre 1960, Sidi Abdelkader. Blida.",
+        "reception_days": "Procureur de la République : Tous les jours."
+      },
+      {
+        "id": "200",
+        "name": "Tribunal de Boufarik",
+        "telephone": "025.28.56.50",
+        "email": "tr09boufarik@mjustice.dz",
+        "address": "Boulevard Aït Boudjemaâ  Mohamed. Boufarik.",
+        "reception_days": "Procureur de la République : Tous les jours."
+      },
+      {
+        "id": "203",
+        "name": "Tribunal d'El-Afroun",
+        "telephone": "025.26.81.63",
+        "email": "tr09elafroune@mjustice.dz",
+        "address": "Rue du 1er novembre, El-Afroun. Wilaya de Blida.",
+        "reception_days": "Procureur de la République : Tous les jours."
+      },
+      {
+        "id": "204",
+        "name": "Tribunal de Larbaa",
+        "telephone": "025.34.18.61",
+        "email": "tr09larbaa@mjustice.dz",
+        "address": "Cité Ibn Badis. Larbaa.",
+        "reception_days": "Procureur de la République : Mercredi. Président du Tribunal : Lundi."
+      }
+    ],
+    "id": "DZ-09"
+  },
+  {
+    "name": "Bouira",
+    "telephone": "026.72.38.93/94",
+    "email": "c-bouira@mjustice.dz",
+    "reception_days": "Procureur Général : Lundi et jeudi à 9 h 00 du matin.",
+    "address": "Cité des Frères Bousendala 10000 Bouira.",
+    "website": "https://courdebouira.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "166",
+        "name": "Tribunal de Bouira",
+        "telephone": "020.53.70.12",
+        "email": "tr10bouira@mjustice.dz",
+        "address": "Rue Rechak Ali Bouira.",
+        "reception_days": "Procureur de la République : Lundi."
+      },
+      {
+        "id": "167",
+        "name": "Tribunal d'Ain Bessem",
+        "telephone": "026.87.63.61",
+        "email": "tr10ainbessam@mjustice.dz",
+        "address": "Rue Lounissi Lounis Ain Bessem.",
+        "reception_days": "Procureur de la République : Mercredi."
+      },
+      {
+        "id": "168",
+        "name": "Tribunal de Sour El Ghozlane",
+        "telephone": "026.75.64.66",
+        "email": "tr10sorelghozlane@mjustice.dz",
+        "address": "Rue Mazan Mokhtar. Sour El Ghozlane.",
+        "reception_days": "Procureur de la République : Mercredi ."
+      },
+      {
+        "id": "169",
+        "name": "Tribunal de Lakhdaria",
+        "telephone": "026.71.54.40",
+        "email": "tr10lakhdaria@mjustice.dz",
+        "address": "Rue Makhazani Lounis Lakhdaria. Wilaya de Bouira.",
+        "reception_days": "Procureur de la République : Lundi (et tous les jours de travail en cas d'urgence)."
+      },
+      {
+        "id": "254",
+        "name": "Annexe M'Chedallah",
+        "telephone": "026.79.50.51",
+        "email": "annexe10mchedelah@mjustice.dz",
+        "address": "M'chedallah centre, Bouira.",
+        "reception_days": "Procureur de la République : Lundi."
+      }
+    ],
+    "id": "DZ-10"
+  },
+  {
+    "name": " Tamanrasset",
+    "telephone": "029.31.44.11",
+    "email": "c-tamanrasset@mjustice.dz",
+    "reception_days": "Tous les jours de la semaine.",
+    "address": "Cour de Tamanrasset",
+    "website": "https://courdetamanrasset.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "170",
+        "name": "Tribunal de Tamanrasset",
+        "telephone": "029.31.18.57",
+        "email": "tr11tamanrasset@mjustice.dz",
+        "address": "Tribunal de Tamanrasset.",
+        "reception_days": "Procureur de la République : Lundi et Mercredi et tous les jours de la semaine dans les cas urgents."
+      },
+      {
+        "id": "171",
+        "name": "Tribunal d'Ain Saleh",
+        "telephone": "029.36.55.08",
+        "email": "tr11ainsallah@mjustice.dz",
+        "address": "Tribunal d'Ain Saleh",
+        "reception_days": "Lundi et mercredi."
+      },
+      {
+        "id": "172",
+        "name": "Annexe de Tadrouk",
+        "telephone": "029.35.51.60",
+        "email": "tr11tadroug@mjustice.dz",
+        "address": "Annexe de Tadrouk.",
+        "reception_days": "Lundi et mercredi."
+      },
+      {
+        "id": "252",
+        "name": "Annexe de Tin Zaouatine",
+        "telephone": "029.35.72.41",
+        "email": "tr11tizaouatine@mjustice.dz",
+        "address": "Annexe de Tin Zaouatine",
+        "reception_days": "Lundi et mercredi"
+      },
+      {
+        "id": "267",
+        "name": "Tribunal d'Ain Guezzam",
+        "telephone": "029.35.41.39",
+        "email": "tr11ainguesam@mjustice.dz",
+        "address": "Tribunal d'Ain Guezzam",
+        "reception_days": "Procureur de la République : Mercredi et tous les jours de la semaine dans les cas urgents."
+      }
+    ],
+    "id": "DZ-11"
+  },
+  {
+    "name": "Tebessa",
+    "telephone": "037.55.09.54 / 037.55.09.56",
+    "email": "c-tebessa@mjustice.dz",
+    "reception_days": "Procureur Général : Lundi et mercredi.  / Président de la Cour : Lundi, mercredi et tous les jours dans les cas urgents. /  Procureurs généraux adjoints : Tous les jours de la semaine.",
+    "address": "Cité E'silm 12000. Tebessa. Algérie.",
+    "website": "https://courdetebessa.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "190",
+        "name": "Tribunal de Tebessa",
+        "telephone": "037.55.59.95 / 037.55.58.96",
+        "email": "tr12tebessa@mjustice.dz",
+        "address": "Cité E'silm.Tebessa 12000. Algérie.",
+        "reception_days": "Mardi."
+      },
+      {
+        "id": "191",
+        "name": "Tribunal de Bir El-Ater",
+        "telephone": "037.64.59.05",
+        "email": "tr12birelater@mjustice.dz",
+        "address": "Route nationale N° 16. Bir El-Ater.",
+        "reception_days": "Procureur de la République : Lundi."
+      },
+      {
+        "id": "192",
+        "name": "Tribunal d'Aouinat",
+        "telephone": "037.65.20.30",
+        "email": "tr12elouinet@mjustice.dz",
+        "address": "Tribunal d'Aouinat.",
+        "reception_days": "Présidence : Lundi (et tous les jours en cas d'urgence). Parquet : Mardi - Mercredi (et tous les jours en cas d'urgence)."
+      },
+      {
+        "id": "193",
+        "name": "Tribunal de Chréa",
+        "telephone": "037.62.22.33",
+        "email": "tr12cherea@mjustice.dz",
+        "address": "Nouvelle cité - Chréa. Wilaya de Tébessa.",
+        "reception_days": "Procureur de la République : Dimanche - Mardi - Jeudi (et tous les jours en cas d'urgence)."
+      },
+      {
+        "id": "194",
+        "name": "Tribunal Annexe El Kouif",
+        "telephone": "037.52.31.29/037.52.31.30",
+        "email": "tr12elkouif@mjustice.dz",
+        "address": "Centre-ville. Commune d’El Kouif 12100 - Tébessa",
+        "reception_days": "Mardi."
+      },
+      {
+        "id": "250",
+        "name": "Tribunal Annexe Ouenza",
+        "telephone": "037.46.97.45",
+        "email": "ann_ouenza@mjustice.dz",
+        "address": "Cité Mekersi. Ouenza. Wilaya de Tebessa.",
+        "reception_days": "Tous les jours de la semaine."
+      }
+    ],
+    "id": "DZ-12"
+  },
+  {
+    "name": " Tlemcen",
+    "telephone": "043.21.48.76 / 043.21.36.53",
+    "email": "c-tlemcen@mjustice.dz",
+    "reception_days": "Lundi.",
+    "address": "Imama Daïra de Mansoura.Tlemcen.",
+    "website": "https://courdetlemcen.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "183",
+        "name": "Tribunal de Tlemcen",
+        "telephone": "043.20.81.41",
+        "email": "tr13tlemcen@mjustice.dz",
+        "address": "Rue Tidjani Damerdji. Tlemcen.",
+        "reception_days": "Procureur de la République : Mercredi.   Président du Tribunal : Lundi."
+      },
+      {
+        "id": "184",
+        "name": "Tribunal de Maghnia",
+        "telephone": "043.31.61.65",
+        "email": "tr13maghnia@mjustice.dz",
+        "address": "Maghnia.",
+        "reception_days": "Procureur de la République : Mardi.   Président du Tribunal : Lundi et mardi."
+      },
+      {
+        "id": "185",
+        "name": "Tribunal de Sebdou",
+        "telephone": "043.54.16.18",
+        "email": "tr13sebdou@mjustice.dz",
+        "address": "Rue Emir Abdelkader, Sebdou. Tlemcen.",
+        "reception_days": "Procureur de la République : Lundi . Président du Tribunal : mardi."
+      },
+      {
+        "id": "186",
+        "name": "Tribunal d'Ouled Mimoun",
+        "telephone": "043.58.57.75",
+        "email": "tr13ouledmimoun@mjustice.dz",
+        "address": "Route Sidi Bel Abbes. Ouled Mimoun.",
+        "reception_days": "Procureur de la République : Mercredi. Président du Tribunal : Lundi ."
+      },
+      {
+        "id": "187",
+        "name": "Tribunal de Remchi",
+        "telephone": "043.43.53.41",
+        "email": "tr13elremchi@mjustice.dz",
+        "address": "Remchi. Tlemcen.",
+        "reception_days": "Mardi."
+      },
+      {
+        "id": "188",
+        "name": "Tribunal de Nedroma",
+        "telephone": "043.35.69.61",
+        "email": "tr13nedrouma@mjustice.dz",
+        "address": "Rue de l'indépendance. Nedroma.",
+        "reception_days": "Procureur de la République : Lundi et mercredi.   Présidente du Tribunal : Lundi."
+      },
+      {
+        "id": "189",
+        "name": "Tribunal de Ghazaouet",
+        "telephone": "043.32.50.21",
+        "email": "tr13ghazaouet@mjustice.dz",
+        "address": "Ghazaouet. Tlemcen",
+        "reception_days": "Lundi."
+      },
+      {
+        "id": "240",
+        "name": "Tribunal de Bab El Assa",
+        "telephone": "043.51.18.09",
+        "email": "anx-babelassa@mjustice.dz",
+        "address": "Bab El Assa. Tlemcen.",
+        "reception_days": "Procureur de la République : Mardi."
+      },
+      {
+        "id": "314",
+        "name": "Annexe Sidi Djillali",
+        "telephone": "/",
+        "email": "Tr13sididjilali@mjustice.dz",
+        "address": "Rue du martyr Larbi ben m’hidi Sidi Djillali.",
+        "reception_days": "Lundi."
+      }
+    ],
+    "id": "DZ-13"
+  },
+  {
+    "name": "Tiaret",
+    "telephone": "046.20.30.84",
+    "email": "c-tiaret@mjustice.dz",
+    "reception_days": "Procureur Général : Lundi/ Président de la Cour : Mardi+Mercredi.",
+    "address": "Cité des frères Guitoune. Tiaret.",
+    "website": "https://courdetiaret.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "176",
+        "name": "Tribunal de Tiaret",
+        "telephone": "046.20.30.56",
+        "email": "tr14tiaret@mjustice.dz",
+        "address": "Cité des frères Guitoune. Tiaret.",
+        "reception_days": "Procureur de la République : Lundi."
+      },
+      {
+        "id": "178",
+        "name": "Tribunal de Frenda",
+        "telephone": "046.28.06.86",
+        "email": "tr14frenda@mjustice.dz",
+        "address": "Route d'Aïn-Karmes. Frenda.",
+        "reception_days": "Procureur de la République : Mardi."
+      },
+      {
+        "id": "179",
+        "name": "Tribunal de Ksar Chellala",
+        "telephone": "046.36.42.47",
+        "email": "tr14kaserchellala@mjustice.dz",
+        "address": "Quartier Houcine Ait-Ahmed, route d'Algérie. Ksar Chellala.",
+        "reception_days": "Procureur de la République : Mardi."
+      },
+      {
+        "id": "181",
+        "name": "Tribunal de Sougueur",
+        "telephone": "046.36.44.01",
+        "email": "tr14souguer@mjustice.dz",
+        "address": "Rue Si Abdel-Ghani, route El-Fayja. Sougueur.",
+        "reception_days": "Procureur de la République : Mardi."
+      }
+    ],
+    "id": "DZ-14"
+  },
+  {
+    "name": "Tizi Ouzou",
+    "telephone": "026.19.75.54 / 026.19.75.70",
+    "email": "c-tiziouzou@mjustice.dz",
+    "reception_days": "Procureur Général : Lundi.",
+    "address": "Rue Guentri Seddik.Tizi Ouzou.",
+    "website": "https://courdetiziouzou.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "77",
+        "name": "Tribunal de Tizi Ouzou",
+        "telephone": "026.20.19.96 / 026.21.82.73",
+        "email": "tr15tiziouzou@mjustice.dz",
+        "address": "Rue des frères Sidi Maammer.Tizi Ouzou.",
+        "reception_days": "Procureur de la République : Mercredi."
+      },
+      {
+        "id": "78",
+        "name": "Tribunal d'Azazga",
+        "telephone": "026.14.12.61",
+        "email": "tr15azazga@mjustice.dz",
+        "address": "Rue des Moudjahidine. Azazga.",
+        "reception_days": "Procureur de la République : Mardi. Président du Tribunal : Mercredi."
+      },
+      {
+        "id": "79",
+        "name": "Tribunal d'Aïn El Hammam",
+        "telephone": "026.48.93.02",
+        "email": "tr15ainhamam@mjustice.dz",
+        "address": "Rue du 1er novembre. Aïn El Hammam.",
+        "reception_days": "Procureur de la République : Mercredi."
+      },
+      {
+        "id": "80",
+        "name": "Tribunal de Draâ El Mizan",
+        "telephone": "026.13.21.56",
+        "email": "tr15demizane@mjustice.dz",
+        "address": "Cité colonel Ouamrane. Draâ El Mizan.",
+        "reception_days": "Dimanche."
+      },
+      {
+        "id": "81",
+        "name": "Tribunal de Larbaâ Nath Irathen",
+        "telephone": "026.49.24.18",
+        "email": "tr15larbaanath@mjustice.dz",
+        "address": "Rue Abane Ramdane. Larbaâ Nath Irathen.",
+        "reception_days": "Procureur de la République : Lundi.   Président du Tribunal : Mardi."
+      },
+      {
+        "id": "82",
+        "name": "Tribunal de Tigzirt",
+        "telephone": "026.46.40.84",
+        "email": "tr15tigzirt@mjustice.dz",
+        "address": "Rue Mohand Arezki Chaïb.Tigzirt.",
+        "reception_days": "Procureur de la République : Mercredi.   Président du Tribunal : Lundi."
+      },
+      {
+        "id": "83",
+        "name": "Tribunal d'Ouacif",
+        "telephone": "026.33.15.22",
+        "email": "tr15ouassif@mjustice.dz",
+        "address": "Ouacif centre.",
+        "reception_days": "Procureur de la République : Lundi.   Président du Tribunal : Lundi."
+      },
+      {
+        "id": "251",
+        "name": "Annexe Azeffoun",
+        "telephone": "026.45.04.91",
+        "email": "tr15azeffoun@mjustice.dz",
+        "address": "Rue Capitaine Si Abdellah. Azeffoun.",
+        "reception_days": "Procureur de la République : //."
+      }
+    ],
+    "id": "DZ-15"
+  },
+  {
+    "name": "Alger",
+    "telephone": "021.77.01.52",
+    "email": "c-alger@mjustice.dz",
+    "reception_days": "Procureur Général : Jeudi.  Président de la Cour : Mardi.",
+    "address": "Chemin Fernane Hanafi - Alger.",
+    "website": "https://cour-alger.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "84",
+        "name": "Tribunal de Sidi M'Hamed",
+        "telephone": "023.50.95.97",
+        "email": "tr16smhamed@mjustice.dz",
+        "address": "10 rue Abane Ramdane. Alger.",
+        "reception_days": "Procureur de la République : Dimanche - Mercredi."
+      },
+      {
+        "id": "85",
+        "name": "Tribunal de Bab El Oued",
+        "telephone": "023.06.22.05",
+        "email": "tr16babeloued@mjustice.dz",
+        "address": "Al-Hammamet.",
+        "reception_days": "Procureur de la République : Lundi après-midi. Président du Tribunal : Lundi matin."
+      },
+      {
+        "id": "86",
+        "name": "Tribunal d'Hussein-Dey",
+        "telephone": "021.23.19.05 / 021.23.16.31 / 021.23.48.64",
+        "email": "tr16hdey@mjustice.dz",
+        "address": "Rue Abdelkader Sahli Hussein-Dey.",
+        "reception_days": "Procureur de la République : Lundi."
+      },
+      {
+        "id": "87",
+        "name": "Tribunal d'El-Harrach",
+        "telephone": "023.72.00.01 / 023.72.00.12",
+        "email": "tr16elharrach@mjustice.dz",
+        "address": "Rue Youcef Khettab. El-Harrach.",
+        "reception_days": "Procureur de la République : Mardi après-midi."
+      },
+      {
+        "id": "88",
+        "name": "Tribunal de Bir Mourad Raïs",
+        "telephone": "021.54.01.06",
+        "email": "tr16bmrais@mjustice.dz",
+        "address": "Saïd Hamdine. Bir Mourad Raïs.",
+        "reception_days": "Procureur de la République : Lundi.   Président du Tribunal : Mercredi."
+      },
+      {
+        "id": "256",
+        "name": "Annexe El-Harrach",
+        "telephone": "023.72.00.01 / 023.72.00.12",
+        "email": "anx.elharrache@mjustice.dz",
+        "address": "Rue Ahmed Aoun. Annexe El-Harrach",
+        "reception_days": "Dimanche  - Mercredi."
+      },
+      {
+        "id": "309",
+        "name": "Tribunal de Rouiba",
+        "telephone": "023.86.01.49",
+        "email": "tr35rouiba@mjustice.dz",
+        "address": "Rue Mohamed Tounsi. Rouiba.",
+        "reception_days": "Procureur de la République : Lundi - Jeudi."
+      },
+      {
+        "id": "311",
+        "name": "Tribunal de Dar El Beïda",
+        "telephone": "023.79.22.10",
+        "email": "tr16darbeida@mjustice.dz",
+        "address": "Route Nationale N° 24. Dar El Beïda.",
+        "reception_days": "Mardi."
+      }
+    ],
+    "id": "DZ-16"
+  },
+  {
+    "name": "Djelfa",
+    "telephone": "027.92.15.18 / 027.92.15.19",
+    "email": "c-djelfa@mjustice.dz",
+    "reception_days": "Lundi.",
+    "address": "Cité colonel Mohamed Chaabani.",
+    "website": "https://courdedjelfa.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "195",
+        "name": "Tribunal de Djelfa",
+        "telephone": "027.92.97.66  / 027.92.97.65",
+        "email": "tr17djelfa@mjustice.dz",
+        "address": "Rue du 05 Juillet.",
+        "reception_days": "Mercredi (Pour les cas urgents, la réception est assurée tous les jours par le président du tribunal et le procureur de la République)."
+      },
+      {
+        "id": "196",
+        "name": "Tribunal d'Ain-Oussara",
+        "telephone": "027.80.14.67 / 027.80.14.66",
+        "email": "tr17ouassara@mjustice.dz",
+        "address": "Cité Ali Ammar. Ain-Oussara.",
+        "reception_days": "Lundi ((Pour les cas urgents, la réception est assurée tous les jours par le président du tribunal et le procureur de la République)."
+      },
+      {
+        "id": "197",
+        "name": "Tribunal de Hassi Bahbah",
+        "telephone": "027.96.52.76",
+        "email": "tr17hbahbah@mjustice.dz",
+        "address": "Cité administrative. Hassi Bahbah.",
+        "reception_days": "Procureur de la République : Mercredi. Président du Tribunal : Dimanche (Pour les cas urgents, la réception est assurée tous les jours par le président du tribunal et le procureur de la République)."
+      },
+      {
+        "id": "198",
+        "name": "Tribunal de Messaad",
+        "telephone": "027.98.62.07",
+        "email": "tr17messaad@mjustice.dz",
+        "address": "Rue de Boussaada.",
+        "reception_days": "Procureur de la République : Mardi.  Président du Tribunal : Dimanche (Pour les cas urgents, la réception est assurée tous les jours par le président du tribunal et le procureur de la République)."
+      },
+      {
+        "id": "310",
+        "name": "Tribunal d'El Idrissia",
+        "telephone": "027.88.95.01",
+        "email": "tr17idrissia@mjustice.dz",
+        "address": "Rue de l'Emir Abdelkader.",
+        "reception_days": "Dimanche (Pour les cas urgents, la réception est assurée tous les jours par le président du tribunal et le procureur de la République)."
+      }
+    ],
+    "id": "DZ-17"
+  },
+  {
+    "name": "Jijel",
+    "telephone": "034.49.71.13 / 034.49.72.12",
+    "email": "c-jijel@mjustice.dz",
+    "reception_days": "Procureur Général : Lundi et mercredi.Président de la Cour : Lundi.",
+    "address": "Rue du Premier Novembre. Jijel.",
+    "website": "https://courdejijel.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "173",
+        "name": "Tribunal de Jijel",
+        "telephone": "034.59.61.61",
+        "email": "tr18jijel@mjustice.dz",
+        "address": "Tribunal de Jijel",
+        "reception_days": "Procureurs de la République et ses adjoints : Tous les jours.  Président du Tribunal: Dimanche."
+      },
+      {
+        "id": "174",
+        "name": "Tribunal de Tahir",
+        "telephone": "034.55.30.80",
+        "email": "tr18tahir@mjustice.dz",
+        "address": "Cité Boucherka. Commune d'El-Tahir.",
+        "reception_days": "Procureur de la République: Tous les jours.Président du Tribunal: Lundi."
+      },
+      {
+        "id": "175",
+        "name": "Tribunal de Milia",
+        "telephone": "034.52.60.23",
+        "email": "tr18elmilia@mjustice.dz",
+        "address": "Rue du Premier Novembre. Daira d'El-Milia.",
+        "reception_days": "Procureur de la République: Lundi - Mercredi.   Président du Tribunal: Dimanche."
+      }
+    ],
+    "id": "DZ-18"
+  },
+  {
+    "name": "Sétif",
+    "telephone": "036.82.11.00 / 036.82.11.88",
+    "email": "c-setif@mjustice.dz",
+    "reception_days": "Présidence : Lundi (et tous les jours de la semaine en cas d'urgence). Parquet : Lundi et mercredi.",
+    "address": "Rue E'Cheikh El-Aifa. Sétif.",
+    "website": "https://cour-setif.mjustice.dz/",
+    "tribunals": [
+      {
+        "id": "98",
+        "name": "Tribunal de Sétif",
+        "telephone": "036.53.75.95 / 036.53.75.98",
+        "email": "tr19setif@mjustice.dz",
+        "address": "Rue  E'Cheikh El-Aifa. Sétif.",
+        "reception_days": "Présidence: Lundi – Mercredi."
+      },
+      {
+        "id": "99",
+        "name": "Tribunal de Beni Ouartilenne",
+        "telephone": "036.49.30.54",
+        "email": "tr19bouartilane@mjustice.dz",
+        "address": "Beni Ouartilenne - Centre",
+        "reception_days": "Tous les jours de la semaine."
+      },
+      {
+        "id": "100",
+        "name": "Tribunal d'Ain-El-Kebira",
+        "telephone": "036.59.80.70 / 036.59.81.00",
+        "email": "tr19akbira@mjustice.dz",
+        "address": "Rue du 1er novembre 1954. Ain-El-Kebira.",
+        "reception_days": "Présidence: Lundi.  Parquet: Mardi."
+      },
+      {
+        "id": "101",
+        "name": "Tribunal d'El-Eulma",
+        "telephone": "036.76.16.24 / 063.76.16.24",
+        "email": "tr19eleulma@mjustice.dz",
+        "address": "Rue du 1er novembre 1954.",
+        "reception_days": "Présidence : Lundi.  Parquet : Tous les jours."
+      },
+      {
+        "id": "102",
+        "name": "Tribunal d'Ain-Oulmane",
+        "telephone": "036.58.52.40 / 036.58.52.42",
+        "email": "tr19aoulmane@mjustice.dz",
+        "address": "Rue de la République. Ain-Oulmane.",
+        "reception_days": "Présidence : Mercredi.  Parquet : Mardi."
+      },
+      {
+        "id": "229",
+        "name": "Tribunal de Bougaâ",
+        "telephone": "036.60.35.33 / 036.60.35.26",
+        "email": "tr19bougaa@mjustice.dz",
+        "address": "Bougaâ centre.",
+        "reception_days": "Présidence: Lundi - Mercredi."
+      },
+      {
+        "id": "272",
+        "name": "Annexe de Beni Aziz",
+        "telephone": "036.46.14.76",
+        "email": "tr19beniaziz@mjustice.dz",
+        "address": "Beni Aziz Centre.",
+        "reception_days": "Parquet : Mardi - Mercredi."
+      },
+      {
+        "id": "273",
+        "name": "Tribunal de Aïn Azel",
+        "telephone": "036.55.47.38",
+        "email": "anx.ainazel@mjustice.dz",
+        "address": "Rue principale de la ville de Aïn Azel.",
+        "reception_days": "Présidence : Lundi et mercredi."
+      }
+    ],
+    "id": "DZ-19"
+  },
+  {
+    "name": "Saïda",
+    "telephone": "048.51.15.15 / 048.51.15.16",
+    "email": "c-saida@mjustice.dz",
+    "reception_days": "Procureur Général : Mardi.  Président de la Cour : Lundi.",
+    "address": "Palais de Justice. Saïda.",
+    "website": "https://courdesaida.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "104",
+        "name": "Tribunal de Saïda",
+        "telephone": "048.37.77.00",
+        "email": "tr20saida@mjustice.dz",
+        "address": "Tribunal de Saïda.",
+        "reception_days": "Mardi."
+      },
+      {
+        "id": "320",
+        "name": "Tribunal El-Hassasna",
+        "telephone": "048.31.13.18",
+        "email": "tr20elhassasna@mjustice.dz",
+        "address": "El-Hassasna-Saïda.",
+        "reception_days": "Mardi."
+      }
+    ],
+    "id": "DZ-20"
+  },
+  {
+    "name": "Skikda",
+    "telephone": "038.76.59.32 / 038.76.14.28",
+    "email": "c-skikda@mjustice.dz",
+    "reception_days": "Procureur Général : Tous les jours. Président de la Cour : Mercredi.",
+    "address": "Cité des Allées du 20 Août 1955. Skikda",
+    "website": "https://courdeskikda.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "208",
+        "name": "Tribunal de Skikda",
+        "telephone": "038.76.22.59 / 038.76.13.15 / 038.76.47.29",
+        "email": "tr21skikda@mjustice.dz",
+        "address": "Rue Didouche Mourad.",
+        "reception_days": "Procureur de la République : Dimanche et mardi et tous les jours dans les cas urgents.  Président du Tribunal : Mardi et tous les jours dans les cas urgents."
+      },
+      {
+        "id": "209",
+        "name": "Tribunal d'Azzaba",
+        "telephone": "038.95.95.80 / 038.95.92.30",
+        "email": "tr21azzaba@mjustice.dz",
+        "address": "Boulevard 1er novembre 1954. Azzaba.",
+        "reception_days": "Procureur de la République : Lundi et Mercredi et tous les jours dans les cas urgents.  Président du Tribunal : Mardi et mercredi."
+      },
+      {
+        "id": "210",
+        "name": "Tribunal d'El Harrouch",
+        "telephone": "038.98.02.71",
+        "email": "tr21elharouch@mjustice.dz",
+        "address": "Rue Kadid. El Harrouch.",
+        "reception_days": "Procureur de la République : Lundi et mercredi et tous les jours dans les cas urgents.  Président du Tribunal :mardi et en cas d'urgence, les jours d'accueil."
+      },
+      {
+        "id": "211",
+        "name": "Tribunal de Collo",
+        "telephone": "038.90.51.48",
+        "email": "tr21collo@mjustice.dz",
+        "address": "Boulevard Rouibah Tahar. Collo.",
+        "reception_days": "Procureur de la République : Mardi et tous les jours de la semaine si nécessaire.  Président du Tribunal : Mercredi et tous les jours de la semaine si nécessaire."
+      },
+      {
+        "id": "212",
+        "name": "Tribunal de Tamalous",
+        "telephone": "038.93.75.10/038.93.75.08",
+        "email": "tr21tamalous@mjustice.dz",
+        "address": "Cité El-Filek. Tamalous.",
+        "reception_days": "Mardi."
+      }
+    ],
+    "id": "DZ-21"
+  },
+  {
+    "name": "Sidi Bel Abbes",
+    "telephone": "048.77.12.14 / 048.77.12.15",
+    "email": "c-sbelabbes@mjustice.dz",
+    "reception_days": "Procureur Général : Tous les jours.Président de la Cour : Mercredi.",
+    "address": "Cour de Sidi Bel Abbes. Rue Messali El Hadj.",
+    "website": "https://courdesidibelabbes.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "112",
+        "name": "Tribunal de Sidi Bel Abbes",
+        "telephone": "048.74.18.36",
+        "email": "tr22sbelabbes@mjustice.dz",
+        "address": "Tribunal de Sidi Bel Abbes. Rue du 1er novembre.",
+        "reception_days": "Lundi."
+      },
+      {
+        "id": "117",
+        "name": "Tribunal de Sfisef",
+        "telephone": "048.79.41.09 / 048.79.41.12",
+        "email": "tr22sfisef@mjustice.dz",
+        "address": "Tribunal de Sfisef. Rue Aissat Idir.",
+        "reception_days": "Procureur de la République : Lundi.Président du Tribunal : Mercredi."
+      },
+      {
+        "id": "118",
+        "name": "Tribunal de Ben Badis",
+        "telephone": "048.73.60.13",
+        "email": "tr22benbadis@mjustice.dz",
+        "address": "Tribunal de Ben Badis. Rue des frères Bouarfa.",
+        "reception_days": "Président du tribunal: Mercredi . Procureur de la République : Lundi."
+      },
+      {
+        "id": "119",
+        "name": "Tribunal de Telagh",
+        "telephone": "048.78.71.06",
+        "email": "tr22tlaghma@mjustice.dz",
+        "address": "Tribunal de Telagh. Rue Larbi Ben M'hidi.",
+        "reception_days": "Président du tribunal: Mercredi . Procureur de la République : Lundi."
+      },
+      {
+        "id": "292",
+        "name": "Tribunal Annexe Ras El Ma",
+        "telephone": "048.78.54.30",
+        "email": "anx.raselma@mjustice.dz",
+        "address": "Tribunal Annexe Ras El Ma. Rue ghomali Abdelmadjid.",
+        "reception_days": "Procureur de la République : Lundi"
+      }
+    ],
+    "id": "DZ-22"
+  },
+  {
+    "name": "Annaba",
+    "telephone": "038.40.66.13 /038.40.66.14",
+    "email": "c-annaba@mjustice.dz",
+    "reception_days": "Procureur géneral: Mardi. Président: Mercredi.",
+    "address": "Boulevard Ben Zaim Abdelaziz. Annaba.",
+    "website": "https://courdannaba.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "30",
+        "name": "Tribunal d'Annaba",
+        "telephone": "038.45.87.80 / 038.45.87.83",
+        "email": "tr23annaba@mjustice.dz",
+        "address": "Rue 28 janvier 1957 beni mhafer. Annaba.",
+        "reception_days": "Président: Dimanche et Mardi matin et le reste des jours dans les cas urgents. Procureur: Dimanche et Mercredi matin et le reste des jours dans les cas urgents"
+      },
+      {
+        "id": "32",
+        "name": "Tribunal de Berrahal",
+        "telephone": "038.45.70.92",
+        "email": "tr23berrahel@mjustice.dz",
+        "address": "Quartier Front de Libération Nationale, Berrahel, Wilaya d'Annaba",
+        "reception_days": "Procureur de la république: Dimanche et Mardi et tous les jours dans les cas urgent. président du tribunal: lundi et tous les jours dans les cas urgent"
+      },
+      {
+        "id": "34",
+        "name": "Tribunal d'El-Hadjar",
+        "telephone": "038.89.25.39",
+        "email": "tr23elhadjar@mjustice.dz",
+        "address": "Tribunal d'El-Hadjar",
+        "reception_days": "Procureur de la République : Dimanche et mercredi.  Président du Tribunal : Mardi."
+      }
+    ],
+    "id": "DZ-23"
+  },
+  {
+    "name": "Guelma",
+    "telephone": "037.11.63.75",
+    "email": "c-guelma@mjustice.dz",
+    "reception_days": "Procureur Général : Mardi. Président de la Cour : Mercredi.",
+    "address": "Route de l'Université. Guelma.",
+    "website": "https://courdeguelma.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "140",
+        "name": "Tribunal de Guelma",
+        "telephone": "037.14.10.11",
+        "email": "tr24guelma@mjustice.dz",
+        "address": "Tribunal de Guelma.",
+        "reception_days": "Procureur de la République : Dimanche et Mercredi. Président du Tribunal : Lundi."
+      },
+      {
+        "id": "141",
+        "name": "Tribunal de  Bouchegouf",
+        "telephone": "037.22.62.66",
+        "email": "tr24bouchegouf@mjustice.dz",
+        "address": "Tribunal de  Bouchegouf",
+        "reception_days": "Procureur de la République : Lundi. Président du Tribunal : Mardi."
+      },
+      {
+        "id": "143",
+        "name": "Tribunal d'Oued Zenati",
+        "telephone": "037.27.42.03",
+        "email": "tr24ouedzenati@mjustice.dz",
+        "address": "Tribunal d'Oued Zenati.",
+        "reception_days": "Procureur de la République : Mercredi.   Président du Tribunal : Dimanche."
+      }
+    ],
+    "id": "DZ-24"
+  },
+  {
+    "name": "Constantine",
+    "telephone": "031.69.59.35 / 031.69.59.36 / 031.69.59.37 / 031.69.59.38 / 031.69.59.39 / 031.69.59.29",
+    "email": "c-constantine@mjustice.dz",
+    "reception_days": "Tous les jours.",
+    "address": "Cour de Constantine.",
+    "website": "https://courdeconstantine.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "19",
+        "name": "Trib. Constantine - Annexe Ziadia",
+        "telephone": "031.72.52.83",
+        "email": "tr25constantine@mjustice.dz",
+        "address": "Ziadia. Constantine.",
+        "reception_days": "/"
+      },
+      {
+        "id": "20",
+        "name": "Tribunal d'El Khroub",
+        "telephone": "031.76.44.35 / 031.76.44.39",
+        "email": "tr25elkhroub@mjustice.dz",
+        "address": "Rue Emir Abdelkader.",
+        "reception_days": "Procureur de la République : Tous les jours.  Président du Tribunal : Tous les jours."
+      },
+      {
+        "id": "21",
+        "name": "Tribunal de Zighoud Youcef",
+        "telephone": "031.71.13.11 / 031.71.13.12",
+        "email": "tr25ziroutyoucef@mjustice.dz",
+        "address": "Rue de l'Armée de Libération Nationale. Commune de Zighoud Youcef.",
+        "reception_days": "Tous les jours de la semaine."
+      },
+      {
+        "id": "25",
+        "name": "Tribunal de Constantine",
+        "telephone": "031.87.23.62",
+        "email": "tr25ziadia@mjustice.dz",
+        "address": "Centre ville - en face à la poste centrale",
+        "reception_days": "Tous les jours de la semaine."
+      }
+    ],
+    "id": "DZ-25"
+  },
+  {
+    "name": "Médéa",
+    "telephone": "025.80.02.40  / 025.80.02.46",
+    "email": "c-medea@mjustice.dz",
+    "reception_days": "Président de la Cour : Mardi.",
+    "address": "Cité Thniet El-Hadjer. Médéa.",
+    "website": "https://cour-medea.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "223",
+        "name": "Tribunal de Médéa",
+        "telephone": "025.78.59.21",
+        "email": "tr26medea@mjustice.dz",
+        "address": "Rue, Dely Ibrahim. Médéa.",
+        "reception_days": "Procureur de la République : Mardi."
+      },
+      {
+        "id": "224",
+        "name": "Tribunal de Berrouaghia",
+        "telephone": "025.77.12.98 / 025.77.13.65",
+        "email": "tr26berouaguia@mjustice.dz",
+        "address": "Rue de la République, Berrouaghia. Médéa.",
+        "reception_days": "Procureur de la République : Tous les jours de la semaine."
+      },
+      {
+        "id": "225",
+        "name": "Tribunal de Ksar El Boukhari",
+        "telephone": "025.70.37.45",
+        "email": "tr26kserelboukari@mjustice.dz",
+        "address": "Pôle urbain, Al-Zibra, Ksar El Boukhari, Médéa.",
+        "reception_days": "Lundi."
+      },
+      {
+        "id": "226",
+        "name": "Tribunal d'Aïn Boucif",
+        "telephone": "025.55.04.43",
+        "email": "tr26ainboucif@mjustice.dz",
+        "address": "Cité E'Chahid Mohamed Boudiaf. Médéa.",
+        "reception_days": "Mardi."
+      },
+      {
+        "id": "230",
+        "name": "Tribunal de Tablat",
+        "telephone": "025.71.11.91",
+        "email": "tr26tablat@mjustice.dz",
+        "address": "Rue du 20 août, Tablat, Médéa.",
+        "reception_days": "Procureur de la République : Lundi."
+      },
+      {
+        "id": "231",
+        "name": "Tribunal d' El Amaria",
+        "telephone": "025.76.31.27",
+        "email": "tr26elamaria@mjustice.dz",
+        "address": "Rue Boukasmi Tayeb Djaghlali - Commune d'El Amaria. Médéa",
+        "reception_days": "Procureur de la République : Mercredi et Tous les jours en cas d’urgence."
+      },
+      {
+        "id": "232",
+        "name": "Tribunal de Beni Slimane.",
+        "telephone": "025.51.42.20",
+        "email": "tr26benislimane@mjustice.dz",
+        "address": "Beni Slimane. Médéa.",
+        "reception_days": "Lundi et tous les jours en cas d’urgence."
+      }
+    ],
+    "id": "DZ-26"
+  },
+  {
+    "name": "Mostaganem",
+    "telephone": "045.40.97.50 / 045.40.99.50 / 045.40.97.72",
+    "email": "c-moustaghanem@mjustice.dz",
+    "reception_days": "Procureur Général : Tous les jours de la semaine. Président de la Cour : Mercredi.",
+    "address": "Route d'Oran. Mostaganem.",
+    "website": "https://cour-mostaganem.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "26",
+        "name": "Tribunal de Mostaganem",
+        "telephone": "045.41.83.65 / 045.41.80.41",
+        "email": "tr27moustaghanem@mjustice.dz",
+        "address": "Route d'Oran. Mostaganem.",
+        "reception_days": "Procureur de la République: Mercredi."
+      },
+      {
+        "id": "27",
+        "name": "Tribunal de Sidi-Ali",
+        "telephone": "045.45.11.68",
+        "email": "tr27sidiali@mjustice.dz",
+        "address": "Centre ville, rue du 1er novembre, Sidi-Ali.",
+        "reception_days": "Mercredi."
+      },
+      {
+        "id": "28",
+        "name": "Tribunal d'Ain-Tadles",
+        "telephone": "045.47.92.64",
+        "email": "tr27aintadles@mjustice.dz",
+        "address": "Cité Emir Abdelkader, Daira d'Ain-Tadles.",
+        "reception_days": "Procureur de la République: Lundi et tous les jours en cas d’urgence."
+      }
+    ],
+    "id": "DZ-27"
+  },
+  {
+    "name": "M'Sila",
+    "telephone": "035.35.05.21 / 035.35.05.20",
+    "email": "c-msila@mjustice.dz",
+    "reception_days": "Président de la Cour : Lundi.",
+    "address": "Cité administrative. M'Sila.",
+    "website": "https://courdemsila.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "54",
+        "name": "Tribunal de M'Sila",
+        "telephone": "035.33.68.69 / 035.33.68.67",
+        "email": "tr28msila@mjustice.dz",
+        "address": "Route de Bou Saada. M’Sila.",
+        "reception_days": "Procureur de la République : Tous les jours."
+      },
+      {
+        "id": "55",
+        "name": "Tribunal de Bousaada",
+        "telephone": "035.46.41.37",
+        "email": "tr28boussaada@mjustice.dz",
+        "address": "Cité d’Al-Batin route d’alger – Bousaada.",
+        "reception_days": "Mardi."
+      },
+      {
+        "id": "56",
+        "name": "Tribunal de Sidi-Aissa",
+        "telephone": "035.40.80.52",
+        "email": "tr28sidiaissa@mjustice.dz",
+        "address": "Cité 150 logement. Sidi-Aissa.",
+        "reception_days": "Procureur de la République : Lundi."
+      },
+      {
+        "id": "57",
+        "name": "Tribunal d'Ain El-Melh",
+        "telephone": "035.47.92.25",
+        "email": "tr28ainelmelh@mjustice.dz",
+        "address": "Route de Bou Saâda, Ain El-Melh.",
+        "reception_days": "Lundi."
+      },
+      {
+        "id": "58",
+        "name": "Tribunal de Hammam Dhalaa",
+        "telephone": "035.37.51.99",
+        "email": "tr28hdhelaa@mjustice.dz",
+        "address": "Au sud de la ville de Hammam Dhalaa, route nationale 60.",
+        "reception_days": "Procureur de la République : Mardi."
+      },
+      {
+        "id": "59",
+        "name": "Tribunal de Magraa",
+        "telephone": "035.39.20.52",
+        "email": "tr28magraa@mjustice.dz",
+        "address": "Cité administrative au centre de l’APC de Magraa, en face de la route nationale n ° 28.",
+        "reception_days": "Mercredi."
+      },
+      {
+        "id": "60",
+        "name": "Annexe de Ben Srour",
+        "telephone": "035.46.84.65",
+        "email": "tr28beniserour@mjustice.dz",
+        "address": "Annexe de Ben Srour.",
+        "reception_days": "Procureur de la République : Mardi."
+      },
+      {
+        "id": "323",
+        "name": "Tribunal Ouled Derradj",
+        "telephone": "044.61.42.26",
+        "email": "",
+        "address": "En face à la Route Nationale N°40 - Ouled Derradj.",
+        "reception_days": "Procureur de la République : Mardi."
+      },
+      {
+        "id": "324",
+        "name": "Annexe Ain-Elhadjel",
+        "telephone": "035.40.05.25",
+        "email": "",
+        "address": "Centre ville Ain-elhadjel",
+        "reception_days": "/"
+      }
+    ],
+    "id": "DZ-28"
+  },
+  {
+    "name": "Mascara",
+    "telephone": "045.72.40.74 / 045.72.40.66 / 045.72.40.67 /  045.72.40.73",
+    "email": "c-mascara@mjustice.dz",
+    "reception_days": "Lundi.",
+    "address": "Cité administrative. Mascara.",
+    "website": "https://courdemascara.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "61",
+        "name": "Tribunal de Mascara",
+        "telephone": "045.71.69.86 / 045.71.69.87",
+        "email": "tr29mascara@mjustice.dz",
+        "address": "Rue Amar Ben Ghazar. Commune de Mascara.",
+        "reception_days": "Procureur de la République : Lundi."
+      },
+      {
+        "id": "62",
+        "name": "Tribunal de Mohammadia",
+        "telephone": "045.95.53.33",
+        "email": "tr29mouhamadia@mjustice.dz",
+        "address": "Rue, Ben Zahra Abdelkader. Mohammadia.",
+        "reception_days": "Procureur de la République : Tous les jours de la semaine."
+      },
+      {
+        "id": "63",
+        "name": "Tribunal de Sig",
+        "telephone": "045.64.79.00 / 045.64.79.01",
+        "email": "tr29sig@mjustice.dz",
+        "address": "Rue Zighoud Youcef. 29300 Sig.",
+        "reception_days": "Mercredi."
+      },
+      {
+        "id": "64",
+        "name": "Tribunal de Tighennif",
+        "telephone": "045.86.06.43 / 045.86.06.44",
+        "email": "tr29tighenif@mjustice.dz",
+        "address": "Soltani Ahmed. Tighennif.",
+        "reception_days": "Lundi."
+      },
+      {
+        "id": "65",
+        "name": "Tribunal de Ghriss",
+        "telephone": "045.73.85.48",
+        "email": "tr29gharis@mjustice.dz",
+        "address": "Route de Saïda. Commune de Ghriss",
+        "reception_days": "Lundi."
+      },
+      {
+        "id": "66",
+        "name": "Tribunal de Bouhanifia",
+        "telephone": "045.76.86.96",
+        "email": "tr29bouhnifia@mjustice.dz",
+        "address": "Tribunal de Bouhanifia. Route de Mascara. Bou Hanifia",
+        "reception_days": "Tous les jours de la semaine."
+      }
+    ],
+    "id": "DZ-29"
+  },
+  {
+    "name": "Ouargla",
+    "telephone": "029.71.58.14 / 029.71.58.16 / 029.71.58.17",
+    "email": "c-ouargla@mjustice.dz",
+    "reception_days": "Président de la Cour : Mardi.",
+    "address": "Route Nationale n° 49 en direction de la ville de Ghardaïa.",
+    "website": "https://courdeouargla.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "72",
+        "name": "Tribunal de Ouargla",
+        "telephone": "/",
+        "email": "tr30ouargla@mjustice.dz",
+        "address": "Rue Rouabah Abderrahmane Ouargla.",
+        "reception_days": "Procureur de la République: Tous les jours."
+      },
+      {
+        "id": "73",
+        "name": "Tribunal de Tougourt",
+        "telephone": "029.62.91.43 / 029.62.91.44",
+        "email": "tr30tougourt@mjustice.dz",
+        "address": "cité Labdouat -Tebesbest - Touggourt",
+        "reception_days": "Tous les jours."
+      },
+      {
+        "id": "74",
+        "name": "Tribunal de Hassi Messaoud",
+        "telephone": "029.78.88.59",
+        "email": "tr30hassimessaoud@mjustice.dz",
+        "address": "Cité 300 logement HassiMessaoud.",
+        "reception_days": "Procureur de la République: Tous les jours."
+      },
+      {
+        "id": "75",
+        "name": "Tribunal de Section Hedjaira",
+        "telephone": "029.61.30.86",
+        "email": "tr30hdjira@mjustice.dz",
+        "address": "Rue 17 Février 1962 commune d'Elhadjira.",
+        "reception_days": "Tous les jours."
+      },
+      {
+        "id": "76",
+        "name": "Tribunal de Section Taibat",
+        "telephone": "029.61.16.83",
+        "email": "tr30tiabet@mjustice.dz",
+        "address": "centre Taibet - Rue 05 juillet 1962.",
+        "reception_days": "Tous les jours."
+      }
+    ],
+    "id": "DZ-30"
+  },
+  {
+    "name": "Oran",
+    "telephone": "/",
+    "email": "c-oran@mjustice.dz",
+    "reception_days": "Procureur Général : Tous les jours.",
+    "address": "Palais de Justice, Square Maître Thuveny. Oran.",
+    "website": "https://courdoran.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "120",
+        "name": "Tribunal de Gdyel",
+        "telephone": "041.78.16.61",
+        "email": "tr31gydel@mjustice.dz",
+        "address": "Rue Hammou Boutellilis. Gdyel.",
+        "reception_days": "Procureur de la République : Dimanche et Mardi.Président du Tribunal : Mercredi."
+      },
+      {
+        "id": "121",
+        "name": "Tribunal d'Arzew",
+        "telephone": "041.47.50.00",
+        "email": "tr31arzew@mjustice.dz",
+        "address": "Rue des Jardins. Arzew.",
+        "reception_days": "Président du Tribunal et Procureur de la République : Mercredi."
+      },
+      {
+        "id": "122",
+        "name": "Tribunal d'Ain Turk",
+        "telephone": "041.44.82.50",
+        "email": "tr31aintourk@mjustice.dz",
+        "address": "Rue Hireche Boumediene. Ain Turk.",
+        "reception_days": "Procureur de la République : Mercredi."
+      },
+      {
+        "id": "123",
+        "name": "Tribunal d'Oran",
+        "telephone": "041.42.46.30",
+        "email": "tr31oran@mjustice.dz",
+        "address": "Cité Khemisti. Route Kenastal. Oran.",
+        "reception_days": "Tous les jours de la semaine."
+      },
+      {
+        "id": "124",
+        "name": "Tribunal d'Oued Tlilet",
+        "telephone": "041.18.76.69",
+        "email": "tr31ouedtlilet@mjustice.dz",
+        "address": "Rue Emir Abdelkader. Oued Tlilet.",
+        "reception_days": "Mercredi."
+      },
+      {
+        "id": "125",
+        "name": "Tribunal d'Essania",
+        "telephone": "041.51.43.71",
+        "email": "tr31essenia@mjustice.dz",
+        "address": "03, rue Guerraz Bouazza. Essania.",
+        "reception_days": "Procureur de la République : Lundi et Mercredi."
+      },
+      {
+        "id": "316",
+        "name": "Tribunal de Fellaoucen",
+        "telephone": "041.82.29.04",
+        "email": "tr31fellaoucen@mjustice.dz",
+        "address": "Tribunal de Fellaoucen.Oran",
+        "reception_days": "Mardi et tous les jours dans les cas d’urgence."
+      },
+      {
+        "id": "317",
+        "name": "Tribunal Othmania",
+        "telephone": "041.21.97.30",
+        "email": "tr31othmania@mjustice.dz",
+        "address": "ribunal othmania. Oran",
+        "reception_days": "Procureur de la République: Mercredi.Président du Tribunal: Mardi."
+      }
+    ],
+    "id": "DZ-31"
+  },
+  {
+    "name": "El bayadh",
+    "telephone": "049.61.38.38 - 049.61.38.27",
+    "email": "c-elbayadh@mjustice.dz",
+    "reception_days": "Procureur Général : Lundi.  Président de la cour : Mercredi.",
+    "address": "Place Tripoli. El Bayadh.",
+    "website": "https://courdelbayadh.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "285",
+        "name": "Tribunal d'El Bayadh",
+        "telephone": "049.61.36.84",
+        "email": "tr20elbayadh@mjustice.dz",
+        "address": "Rue Sid El-Hadj Bahous. El Bayadh.",
+        "reception_days": "Procureur de la République : Tous les jours de la semaine.   Président du Tribunal : Mercredi."
+      },
+      {
+        "id": "286",
+        "name": "Tribunal de Bougtob",
+        "telephone": "049.72.43.18",
+        "email": "tr20bouktab@mjustice.dz",
+        "address": "Cité des 24 logements. Bougtob.",
+        "reception_days": "Procureur de la République : Tous les jours de la semaine.   Président du Tribunal : Mercredi."
+      },
+      {
+        "id": "287",
+        "name": "Tribunal de L. Sidi Cheikh",
+        "telephone": "049.63.63.38",
+        "email": "tr20lsidichik@mjustice.dz",
+        "address": "Centre ville. L. Sidi Cheikh.",
+        "reception_days": "Procureur de la République : Tous les jours de la semaine.   Président du Tribunal : Mardi."
+      },
+      {
+        "id": "321",
+        "name": "Tribunal Boualem",
+        "telephone": "049.65.45.63 - 049.65.45.67",
+        "email": "",
+        "address": "Route d'aflou daïra boualem",
+        "reception_days": "Président du Tribunal: Lundi. Procureur général: Tous les jours de la semaine."
+      }
+    ],
+    "id": "DZ-32"
+  },
+  {
+    "name": "Illizi",
+    "telephone": "029.41.12.08",
+    "email": "c-ilizi@mjustice.dz",
+    "reception_days": "Tous les jours de la semaine.",
+    "address": "Zone urbaine. Illizi.",
+    "website": "https://courdillizi.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "129",
+        "name": "Tribunal d'Illizi",
+        "telephone": "029.41.11.51",
+        "email": "tr33ilizi@mjustice.dz",
+        "address": "Zone urbaine. Illizi.",
+        "reception_days": "Tous les jours de travail."
+      },
+      {
+        "id": "130",
+        "name": "Tribunal de Djanet",
+        "telephone": "029.48.53.00",
+        "email": "tr33janet@mjustice.dz",
+        "address": "Rue Tin Khatma. Djanet.",
+        "reception_days": "Tous les jours de travail."
+      },
+      {
+        "id": "313",
+        "name": "tribunal d’In Amenas",
+        "telephone": "029.45.90.38 / 029.45.90.41 / 029.45.90.43",
+        "email": "",
+        "address": "Centre ville d’In Amenas.",
+        "reception_days": "Tous les jours de travail."
+      }
+    ],
+    "id": "DZ-33"
+  },
+  {
+    "name": "Bordj Bou Arréridj",
+    "telephone": "035.76.44.26",
+    "email": "c-bba@mjustice.dz",
+    "reception_days": "Président de la Cour : Mercredi (et tous les jours de la semaine en cas d'urgence). /   Procureur Général : Mardi.",
+    "address": "Boulevard Houari Boumediene, cité 5 juillet. Bordj Bou Arreridj.",
+    "website": "https://courdebordjbouarreridj.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "236",
+        "name": "Tribunal de Bordj Bou Arréridj",
+        "telephone": "035.72.21.43",
+        "email": "tr34bba@mjustice.dz",
+        "address": "Boulevard Houari Boumediene, cité 5 juillet. Bordj Bou Arréridj.",
+        "reception_days": "Procureur de la République : Lundi et Mercredi et tous les jours de la semaine en cas d'urgence.  Président du Tribunal : Lundi (et tous les jours de la semaine en cas d'urgence)."
+      },
+      {
+        "id": "237",
+        "name": "Tribunal de Ras-El-Oued",
+        "telephone": "035.63.23.10",
+        "email": "tr34rasseloued@mjustice.dz",
+        "address": "Rue du 1er novembre. Ras-El-Oued.",
+        "reception_days": "Mardi et tous les jours de la semaine en cas d'urgence."
+      },
+      {
+        "id": "238",
+        "name": "Tribunal de Mansoura",
+        "telephone": "035.85.04.15",
+        "email": "tr34mansoura@mjustice.dz",
+        "address": "Centre de la commune de Mansoura.",
+        "reception_days": "Lundi (et tous les jours de la semaine en cas d'urgence)."
+      },
+      {
+        "id": "239",
+        "name": "Tribunal de Bordj Zemmoura",
+        "telephone": "035.89.51.71",
+        "email": "tr34zemmoura@mjustice.dz",
+        "address": "Centre de la commune. Place du 1er novembre 54.",
+        "reception_days": "Procureur de la République : Mercredi et jeudi. / Président du Tribunal : Lundi et mercredi (et tous les jours de la semaine en cas d'urgence)."
+      },
+      {
+        "id": "322",
+        "name": "Tribunal Bordj Ghedir",
+        "telephone": "030.25.69.26",
+        "email": "",
+        "address": "Rue Lamnawar Boussam Bordj Ghedir",
+        "reception_days": "Mercredi et tous les jours en cas d'urgence."
+      }
+    ],
+    "id": "DZ-34"
+  },
+  {
+    "name": "Boumerdès",
+    "telephone": "024.79.58.88 / 024.79.58.93",
+    "email": "c-boumerdes@mjustice.dz",
+    "reception_days": "Procureur Général: Tous les jours.",
+    "address": "Cité administrative. Boumerdès.",
+    "website": "https://courdeboumerdes.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "135",
+        "name": "Tribunal de Dellys",
+        "telephone": "024.76.26.37",
+        "email": "tr35delys@mjustice.dz",
+        "address": "Entrée de la ville de Dellys. Cité El-Bassatine.",
+        "reception_days": "Procureur de la République: Tous les jours de la semaine."
+      },
+      {
+        "id": "136",
+        "name": "Tribunal de Boudouaou",
+        "telephone": "024.74.11.96",
+        "email": "tr35boudouaou@mjustice.dz",
+        "address": "Centre ville de Boudouaou. Rue du 1er novembre.",
+        "reception_days": "Procureur de la République : Tous les jours.   Président du Tribunal : Dimanche."
+      },
+      {
+        "id": "137",
+        "name": "Tribunal de Khemis El Khechna",
+        "telephone": "024.97.34.49",
+        "email": "tr35khemiskhechna@mjustice.dz",
+        "address": "Tribunal de Khemis El Khechna. Rue BOUZIANE Hocine Khemis El Khechna.",
+        "reception_days": "Procureur de la République : Mercredi (Tous les jours pour les cas urgents). /   Président du Tribunal : Lundi (Tous les jours pour les cas urgents)."
+      },
+      {
+        "id": "138",
+        "name": "Tribunal de Bordj Menaiel",
+        "telephone": "024.78.59.87",
+        "email": "tr35bmenail@mjustice.dz",
+        "address": "Centre ville de Bordj Menaiel. Cité Colonel Amirouche.",
+        "reception_days": "Procureur de la République : Tous les jours."
+      },
+      {
+        "id": "139",
+        "name": "Tribunal de Boumerdès",
+        "telephone": "024.79.13.69",
+        "email": "tr35boumerdes@mjustice.dz",
+        "address": "Centre ville de Boumerdès. Cité Ibn Khaldoun.",
+        "reception_days": "Procureur de la République: Tous les jours. /  Président du Tribunal: Mercredi (Tous les jours pour les cas urgents)."
+      }
+    ],
+    "id": "DZ-35"
+  },
+  {
+    "name": "El Tarf",
+    "telephone": "/",
+    "email": "c-taref@mjustice.dz",
+    "reception_days": "Procureur Général : Tous les jours. Président de la Cour : Mardi.",
+    "address": "Boulevard du Martyr Tin Khamis.",
+    "website": "https://cour-eltarf.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "293",
+        "name": "Tribunal d'El Tarf",
+        "telephone": "/",
+        "email": "tr23eltaref@mjustice.dz",
+        "address": "Route Zitouna. El Tarf",
+        "reception_days": "Procureur de la République : Dimanche.  Président du Tribunal : Mardi."
+      },
+      {
+        "id": "294",
+        "name": "Tribunal de Drean",
+        "telephone": "038.38.84.03 - 038.38.84.04",
+        "email": "tr23drean@mjustice.dz",
+        "address": "Boulevard El-Arbi Tebessi. Centre ville de Drean.",
+        "reception_days": "Procureur de la République : Mercredi. Président du Tribunal : Tous les jours de la semaine."
+      },
+      {
+        "id": "295",
+        "name": "Tribunal d'El Kala",
+        "telephone": "038.35.02.77 - 038.35.02.72",
+        "email": "tr23elkala@mjustice.dz",
+        "address": "Place de la station. El Kala.",
+        "reception_days": "Dimanche - Mercredi."
+      },
+      {
+        "id": "296",
+        "name": "Tribunal de Bouhadjar",
+        "telephone": "038.32.63.93 - 038.32.64.83",
+        "email": "tr23bouhdjar@mjustice.dz",
+        "address": "Rue du Premier Novembre. Bouhadjar.",
+        "reception_days": "Procureur de la République : Dimanche - Mercredi. Président du Tribunal : Tous les jours de la semaine."
+      }
+    ],
+    "id": "DZ-36"
+  },
+  {
+    "name": "Tindouf",
+    "telephone": "049.38.80.66",
+    "email": "c-tindouf@mjustice.dz",
+    "reception_days": "Mercredi.",
+    "address": "Cité Tindouf Lotfi. Commune de Tindouf. Wilaya de Tindouf.",
+    "website": "https://courdetindouf.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "281",
+        "name": "Tribunal de Tindouf",
+        "telephone": "049.38.90.33 - 049.38.90.47",
+        "email": "tr08tindouf@mjustice.dz",
+        "address": "Rue El Kessabi. Tindouf.",
+        "reception_days": "Procureur de la République : Dimanche et Jeudi.Président du Tribunal : Dimanche et Jeudi"
+      }
+    ],
+    "id": "DZ-37"
+  },
+  {
+    "name": "Tissemsilt",
+    "telephone": "046.54.10.20",
+    "email": "c-tissemsilt@mjustice.dz",
+    "reception_days": "Mardi.",
+    "address": "Cour de Tissemsilt",
+    "website": "https://courdetissemsilt.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "305",
+        "name": "Tribunal de Tissemsilt",
+        "telephone": "046.57.69.85",
+        "email": "tr14tissemsilt@mjustice.dz",
+        "address": "Tribunal de Tissemsilt",
+        "reception_days": "Procureur de la République : Tous les jours de la semaine.  Président du Tribunal : Mardi."
+      },
+      {
+        "id": "306",
+        "name": "Tribunal de Bordj Bou Naama",
+        "telephone": "046.50.41.82",
+        "email": "tr14bbounaama@mjustice.dz",
+        "address": "Tribunal de Bordj Bou Naama.",
+        "reception_days": "Procureur de la République : Tous les jours de la semaine.  Président du Tribunal : Mardi."
+      },
+      {
+        "id": "307",
+        "name": "Tribunal de Theniet El Had",
+        "telephone": "046.58.20.76",
+        "email": "tr14thniatelhad@mjustice.dz",
+        "address": "Tribunal de Theniet El Had.",
+        "reception_days": "Procureur de la République : Lundi."
+      },
+      {
+        "id": "308",
+        "name": "Annexe Mahdia",
+        "telephone": "046.38.62.79",
+        "email": "tr38mahdia@mjustice.dz",
+        "address": "Annexe Mahdia",
+        "reception_days": "Procureur de la République: Tous les jours de la semaine / Président du tribunal: Lundi."
+      }
+    ],
+    "id": "DZ-38"
+  },
+  {
+    "name": "El Oued",
+    "telephone": "032.13.89.96",
+    "email": "c-eloued@mjustice.dz",
+    "reception_days": "Président de la Cour : Mercredi.",
+    "address": "Cour d'El Oued.",
+    "website": "https://courdeloued.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "242",
+        "name": "Annexe Rebbah",
+        "telephone": "032.10.52.78",
+        "email": "anx-rebbah@mjustice.dz",
+        "address": "Chemin de wilaya n° 409. Commune de Rebbah. Wilaya d'El Oued",
+        "reception_days": "Président du Tribunal : au niveau du Tribunal d’El-Oued."
+      },
+      {
+        "id": "243",
+        "name": "Tribunal d'El Oued",
+        "telephone": "032.13.93.67",
+        "email": "tr07eloued@mjustice.dz",
+        "address": "Cité du 19 mars. El Oued.",
+        "reception_days": "Procureur de la République : Tous les jours."
+      },
+      {
+        "id": "244",
+        "name": "Tribunal de Debila",
+        "telephone": "032.26.94.50",
+        "email": "tr07eldebila@mjustice.dz",
+        "address": "Rue de Akfadou, Debila. Wilaya d'El Oued.",
+        "reception_days": "Procureur de la République : Lundi et Mercredi. Dans les cas d’urgence, tous les jours de la semaine."
+      },
+      {
+        "id": "245",
+        "name": "Tribunal d'El M'Ghair",
+        "telephone": "032.18.64.64",
+        "email": "tr07mghair@mjustice.dz",
+        "address": "Tribunal d'El M'Ghair. Wilaya d’El M’Ghair.",
+        "reception_days": "Tous les jours de la semaine."
+      },
+      {
+        "id": "246",
+        "name": "Tribunal de Djamaa",
+        "telephone": "032.16.20.20",
+        "email": "tr07djamaa@mjustice.dz",
+        "address": "Tribunal de Djamaa.",
+        "reception_days": "Procureur de la République : Mercredi."
+      },
+      {
+        "id": "248",
+        "name": "Tribunal de Guemar",
+        "telephone": "032.10.16.93",
+        "email": "tr07guemar@mjustice.dz",
+        "address": "Commune de Guemar. Cité du 20 août 55.",
+        "reception_days": "Procureur de la République : Lundi."
+      }
+    ],
+    "id": "DZ-39"
+  },
+  {
+    "name": "Khenchela",
+    "telephone": "032.72.77.31 / 032.72.77.32",
+    "email": "c-khenchela@mjustice.dz",
+    "reception_days": "Lundi.",
+    "address": "Cité des 90 logements. Khenchela.",
+    "website": "https://courdekhenchela.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "297",
+        "name": "Tribunal de Khenchela",
+        "telephone": "032.71.90.31",
+        "email": "tr04khenchla@mjustice.dz",
+        "address": "Nouvelle ville, route Eleazar Khenchela.",
+        "reception_days": "Mardi et tous les jours de la semaine en cas d’urgence"
+      },
+      {
+        "id": "298",
+        "name": "Tribunal de Kais",
+        "telephone": "032.77.00.04",
+        "email": "tr04kais@mjustice.dz",
+        "address": "Route de Batna. Daïra de Kais. Wilaya de Khenchela.",
+        "reception_days": "Procureur de la République: Dimanche - Mardi.  /  Président du Tribunal: Lundi – Mercredi."
+      },
+      {
+        "id": "299",
+        "name": "Tribunal de Chechar",
+        "telephone": "032.75.36.11",
+        "email": "tr04charchar@mjustice.dz",
+        "address": "Route de Djellal. Commune de Chechar. Wilaya de Khenchela.",
+        "reception_days": "Procureur de la République : Jeudi."
+      },
+      {
+        "id": "300",
+        "name": "Tribunal de Ouled Rechache",
+        "telephone": "032.78.58.47",
+        "email": "tr04rachache@mjustice.dz",
+        "address": "Cité du 1er Novembre. Ouled Rechache. Wilaya de Khenchela.",
+        "reception_days": "Procureur de la République : Mardi."
+      },
+      {
+        "id": "303",
+        "name": "Tribunal de Bouhmama",
+        "telephone": "032.76.48.55",
+        "email": "tr04bouhamama@mjustice.dz",
+        "address": "Rue Soufi Abdelhafid. Bouhmama.",
+        "reception_days": "Mardi."
+      },
+      {
+        "id": "304",
+        "name": "Section de Aïn Touila",
+        "telephone": "032.78.00.04",
+        "email": "tr40aintouila@mjustice.dz",
+        "address": "Centre-ville. Siège de l'ancienne bibliothèque.",
+        "reception_days": "Tous les jours."
+      }
+    ],
+    "id": "DZ-40"
+  },
+  {
+    "name": "Souk Ahras",
+    "telephone": "037.72.45.69",
+    "email": "c-soukahras@mjustice.dz",
+    "reception_days": "Procureur Général : Dimanche, lundi, mardi et mercredi.  Président de la cour : Lundi.",
+    "address": "Route de Tunis. Souk Ahras.",
+    "website": "https://courdesoukahras.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "279",
+        "name": "Tribunal de Souk Ahras",
+        "telephone": "037.72.44.62",
+        "email": "tr24soukahras@mjustice.dz",
+        "address": "Route de Tunis. Souk Ahras.",
+        "reception_days": "Procureur de la République : Lundi.  Président du Tribunal : Mercredi.  Procureurs de la République adjoints : Tous les jours de la semaine."
+      },
+      {
+        "id": "280",
+        "name": "Tribunal de Sedrata",
+        "telephone": "037.77.67.08 / 037.77.67.12",
+        "email": "tr24sedrata@mjustice.dz",
+        "address": "Cité Essilm Sedrata. Wilaya de Souk Ahras",
+        "reception_days": "Procureur de la République : Mardi.  Président du Tribunal : Lundi.  Procureurs de la République adjoints : Tous les jours de la semaine."
+      },
+      {
+        "id": "315",
+        "name": "Tribunal de Taoura",
+        "telephone": "037.78.13.11",
+        "email": "tr41taoura@mjustice.dz",
+        "address": "Cité Hadjadj Touhami. Nouvelle ville, Taoura. Souk Ahras.",
+        "reception_days": "Procureur de la République : Mardi."
+      }
+    ],
+    "id": "DZ-41"
+  },
+  {
+    "name": "Tipaza",
+    "telephone": "024.37.63.18",
+    "email": "c-tipaza@mjustice.dz",
+    "reception_days": "Procureur Général : Tous les jours. Président de la Cour : Mardi.",
+    "address": "Nouvelle ville. Tipaza",
+    "website": "https://courdetipaza.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "257",
+        "name": "Tribunal de Tipaza",
+        "telephone": "024.37.68.00",
+        "email": "tr09tipaza@mjustice.dz",
+        "address": "Rue du Martyr Ayouna Mohamed. Tipaza.",
+        "reception_days": "Procureur de la République : Lundi. Président du Tribunal : Mardi."
+      },
+      {
+        "id": "258",
+        "name": "Tribunal de Koléa",
+        "telephone": "024.48.28.22",
+        "email": "tr09kolea@mjustice.dz",
+        "address": "Rue Fouka, Koléa. Tipaza.",
+        "reception_days": "Procureur de la République : Mardi - Jeudi. Président du Tribunal : Lundi."
+      },
+      {
+        "id": "259",
+        "name": "Tribunal de Hadjout",
+        "telephone": "024.39.16.80",
+        "email": "tr09hadjout@mjustice.dz",
+        "address": "Route Fetaka Ali. Hadjout",
+        "reception_days": "Procureur de la République : Dimanche - Jeudi.   Président du Tribunal : Dimanche - Mardi."
+      },
+      {
+        "id": "260",
+        "name": "Tribunal de Chéraga",
+        "telephone": "021.36.28.40/021.36.28.41",
+        "email": "tr09cheraga@mjustice.dz",
+        "address": "11 Cité Aissat Idir. Chéraga.",
+        "reception_days": "Procureur de la République : Tous les jours de la semaine. Président du Tribunal : Mercredi."
+      },
+      {
+        "id": "261",
+        "name": "Tribunal de Cherchell",
+        "telephone": "024.43.93.05",
+        "email": "tr09cherchel@mjustice.dz",
+        "address": "Côté Ouest Cherchell",
+        "reception_days": "Mardi."
+      }
+    ],
+    "id": "DZ-42"
+  },
+  {
+    "name": "Mila",
+    "telephone": "031.46.56.66 / 031.46.56.82 / 031.46.56.29",
+    "email": "c-mila@mjustice.dz",
+    "reception_days": "Procureur Général: Lundi.",
+    "address": "Rue saighi ahmed mila",
+    "website": "https://courdemila.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "288",
+        "name": "Tribunal de Mila",
+        "telephone": "031.47.77.24 / 031.47.77.82",
+        "email": "tr25mila@mjustice.dz",
+        "address": "41, rue Benchoulak. Mila.",
+        "reception_days": "Procureur de la République : Lundi .  Président du Tribunal : Mardi."
+      },
+      {
+        "id": "289",
+        "name": "Tribunal de Chelghoum Laïd",
+        "telephone": "031.45.79.81 / 031.45.79.82 / 031.45.79.83",
+        "email": "tr25chelghoumlaid@mjustice.dz",
+        "address": "Cité du 20 août 55. Chelghoum Laïd.",
+        "reception_days": "Procureur de la République : Mardi, Jeudi ."
+      },
+      {
+        "id": "290",
+        "name": "Tribunal de Ferdjioua",
+        "telephone": "031.49.83.59 / 031.49.83.60",
+        "email": "tr25ferdjioua@mjustice.dz",
+        "address": "Cite Soummam. Ferdjioua.",
+        "reception_days": "Mardi."
+      }
+    ],
+    "id": "DZ-43"
+  },
+  {
+    "name": "Aïn Defla",
+    "telephone": "027.50.53.75",
+    "email": "c-aindefla@mjustice.dz",
+    "reception_days": "Procureur Général : Tous les jours.",
+    "address": "Quartier Administratif. Ain-Defla",
+    "website": "https://cour-aindefla.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "262",
+        "name": "Tribunal d'El Attaf",
+        "telephone": "027.62.15.22",
+        "email": "tr02elataf@mjustice.dz",
+        "address": "Rue Ahmed EL Kassantini (EL Attaf).",
+        "reception_days": "Procureur de la République : Lundi. Président du Tribunal : Mardi."
+      },
+      {
+        "id": "263",
+        "name": "Tribunal d'Aïn Defla",
+        "telephone": "027.50.65.86",
+        "email": "tr02aindefla@mjustice.dz",
+        "address": "Rue El Emir Abdelkader. Ain-Defla.",
+        "reception_days": "Procureur de la République: Mercredi."
+      },
+      {
+        "id": "264",
+        "name": "Tribunal de Khemis Miliana",
+        "telephone": "027.56.05.94",
+        "email": "tr02kmiliana@mjustice.dz",
+        "address": "Rue Belsaadi Abdelkader. Khemis Miliana.",
+        "reception_days": "Procureur de la République : Mardi."
+      },
+      {
+        "id": "265",
+        "name": "Tribunal de Miliana",
+        "telephone": "027.54.81.27",
+        "email": "tr02miliana@mjustice.dz",
+        "address": "Rue Frères Aichouni. Miliana.",
+        "reception_days": "Procureur de la République : Lundi. Président du Tribunal : Mercredi."
+      }
+    ],
+    "id": "DZ-44"
+  },
+  {
+    "name": "Naâma",
+    "telephone": "049.59.55.92",
+    "email": "c-naama@mjustice.dz",
+    "reception_days": "Lundi",
+    "address": "Cité administrative. Naâma.",
+    "website": "https://courdenaama.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "282",
+        "name": "Tribunal de Naâma",
+        "telephone": "049.59.51.10",
+        "email": "tr20naama@mjustice.dz",
+        "address": "Cité 336 logements. Naâma.",
+        "reception_days": "Lundi - Mercredi."
+      },
+      {
+        "id": "283",
+        "name": "Tribunal de Mecheria",
+        "telephone": "049.57.54.05",
+        "email": "tr20mechrea@mjustice.dz",
+        "address": "Rue Colonel Amirouche. Mecheria. Naâma.",
+        "reception_days": "Mardi. Pour les cas exceptionnels, la réception est assurée tous les jours."
+      },
+      {
+        "id": "284",
+        "name": "Tribunal d'Aïn Sefra",
+        "telephone": "/",
+        "email": "tr20ainsafra@mjustice.dz",
+        "address": "Nouvelle cité - Cité 5 juillet. Aïn Sefra. Naâma.",
+        "reception_days": "Procureur de la République : Lundi.  Président du Tribunal : Mardi."
+      }
+    ],
+    "id": "DZ-45"
+  },
+  {
+    "name": "Aïn Témouchent",
+    "telephone": "043.79.21.64 / 043.79.21.09",
+    "email": "c-atemouchent@mjustice.dz",
+    "reception_days": "Tous les jours.",
+    "address": "Rue Maâchou Mohamed. Cité Sidi Saïd.",
+    "website": "https://courdeaintemouchent.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "268",
+        "name": "Tribunal d'Aïn Témouchent",
+        "telephone": "043.79.51.78 / 043.79.45.92",
+        "email": "tr22atemouchent@mjustice.dz",
+        "address": "Cité les Oliviers.",
+        "reception_days": "Mercredi."
+      },
+      {
+        "id": "269",
+        "name": "Tribunal de Hammam Bouhadjar",
+        "telephone": "043.71.11.36",
+        "email": "tr22hbouhdjar@mjustice.dz",
+        "address": "Rue Larbi Ben M'hidi.",
+        "reception_days": "Président du Tribunal : Dimanche."
+      },
+      {
+        "id": "270",
+        "name": "Tribunal de Beni Saf",
+        "telephone": "043.74.04.45",
+        "email": "tr22benisaf@mjustice.dz",
+        "address": "Rue Ben Salah Beloufa.",
+        "reception_days": "Mercredi."
+      },
+      {
+        "id": "271",
+        "name": "Tribunal d'El-Amiria",
+        "telephone": "043.76.00.48",
+        "email": "tr22elamira@mjustice.dz",
+        "address": "Zone urbaine.",
+        "reception_days": "Mardi."
+      }
+    ],
+    "id": "DZ-46"
+  },
+  {
+    "name": "Ghardaïa",
+    "telephone": "029.25.94.72",
+    "email": "c-ghardaia@mjustice.dz",
+    "reception_days": "Procureur Général: Dimanche et Mardi.",
+    "address": "Cité Bouhraoua. Ghardaïa.",
+    "website": "https://courdeghardaia.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "126",
+        "name": "Tribunal de Menea",
+        "telephone": "029.21.14.49",
+        "email": "tr47menea@mjustice.dz",
+        "address": "Rue El-Qods. Menea.",
+        "reception_days": "Procureur de la République : Lundi et mercredi."
+      },
+      {
+        "id": "127",
+        "name": "Tribunal de Metlili",
+        "telephone": "029.29.65.45",
+        "email": "tr47metlili@mjustice.dz",
+        "address": "Cité Timkert.",
+        "reception_days": "Procureur de la République : Lundi."
+      },
+      {
+        "id": "128",
+        "name": "Tribunal de Ghardaïa",
+        "telephone": "029.25.92.01 / 029.25.91.00",
+        "email": "tr47ghardaia@mjustice.dz",
+        "address": "Quartier Bouhraoua Ghardaïa.",
+        "reception_days": "Procureur de la République: Lundi et tous les jours de la semaine en cas d’exception."
+      },
+      {
+        "id": "249",
+        "name": "Tribunal de Beriane",
+        "telephone": "029.24.51.06",
+        "email": "tr47beriane@mjustice.dz",
+        "address": "Cité administrative.",
+        "reception_days": "Dimanche et Mardi (tous les jours en cas d'urgence)."
+      },
+      {
+        "id": "274",
+        "name": "Tribunal Guerrara",
+        "telephone": "029.22.52.05",
+        "email": "elguerrara@mjustice.dz",
+        "address": "Zone Sidi Belkheir, entrée de la commune de Guerrara.",
+        "reception_days": "Procureur de la République : Mercredi."
+      }
+    ],
+    "id": "DZ-47"
+  },
+  {
+    "name": "Relizane",
+    "telephone": "046.76.92.98 / 046.76.92.99 / 046.76.92.86",
+    "email": "c-relizane@mjustice.dz",
+    "reception_days": "Procureur Général : Tous les jours de la semaine.  Président de la Cour : Lundi.",
+    "address": "Cité El Intissar. Relizane.",
+    "website": "https://courderelizane.mjustice.dz",
+    "tribunals": [
+      {
+        "id": "67",
+        "name": "Tribunal de Relizane",
+        "telephone": "046.71.51.08",
+        "email": "tr48relizane@mjustice.dz",
+        "address": "Rue Mohamed Khemisti, Relizane 48000",
+        "reception_days": "Procureur de la République : Lundi."
+      },
+      {
+        "id": "68",
+        "name": "Tribunal d'Oued Rhiou",
+        "telephone": "046.78.62.89",
+        "email": "tr48ouedrhiou@mjustice.dz",
+        "address": "Boulevard Tarek. Oued Rhiou. Relizane 48001 Algérie.",
+        "reception_days": "Procureur de la République : Lundi."
+      },
+      {
+        "id": "69",
+        "name": "Tribunal d'Ammi Moussa",
+        "telephone": "046.84.30.75",
+        "email": "tr48ammimoussa@mjustice.dz",
+        "address": "Cité El-Moustakbal. Ammi Moussa. Relizane 48004 Algérie.",
+        "reception_days": "Procureur de la République : Lundi. Président du Tribunal : Dimanche."
+      },
+      {
+        "id": "70",
+        "name": "Tribunal de Mazouna",
+        "telephone": "046.94.70.78",
+        "email": "tr48mazouna@mjustice.dz",
+        "address": "Rue des frères Belhanchi. Mazouna. Relizane 48002. Algérie.",
+        "reception_days": "Procureur de la République : Tous les jours sauf Mardi.  Président du Tribunal : Lundi."
+      },
+      {
+        "id": "71",
+        "name": "Tribunal de Zemoura",
+        "telephone": "046.86.52.90",
+        "email": "tr48zemmoura@mjustice.dz",
+        "address": "Rue, Abdelhamid Ben Badis Zemoura. Relizane 48003 Algérie.",
+        "reception_days": "Mercredi."
+      }
+    ],
+    "id": "DZ-48"
+  }
+]

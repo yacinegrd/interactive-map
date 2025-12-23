@@ -5,6 +5,16 @@ const hoverColor = "#3B82F6";
 const selectColor = "#2263EB";
 const defaultColor = "#C9D3E4";
 
+interface Wilaya {
+  id: string;
+  name: string;
+  telephone: string;
+  email: string;
+  address: string;
+  website: string;
+  tribunals: any[];
+}
+
 const MapSvg = () => {
   const svgRef = useRef<SVGSVGElement>(null);
   const groupRef = useRef<SVGGElement>(null);
@@ -15,7 +25,7 @@ const MapSvg = () => {
   const [hover, setHover] = useState<string | null>(null);
   const [wilayaSelected, setWilayaSelected] = useState<string | null>(null)
 
-   const [tooltip, setTooltip] = useState<{
+  const [tooltip, setTooltip] = useState<{
     visible: boolean;
     name: string;
     x: number;
@@ -57,6 +67,21 @@ const MapSvg = () => {
   //     svg.addEventListener("wheel", handleWheel);
   //     return () => svg.removeEventListener("wheel", handleWheel);
   //   }, [zoom]);
+
+  const [wilayasMap, setWilayasMap] = useState<Map<string, Wilaya>>(new Map());
+
+  useEffect(() => {
+    const loadData = async () => {
+      const res = await fetch("/algerian_courts.json");
+      const data: Wilaya[] = await res.json();
+
+      // Convert array to Map, keyed by ID (e.g. "DZ01")
+      const map = new Map(data.map((w) => [w.name, w]));
+      setWilayasMap(map);
+    };
+
+    loadData();
+  }, []);
 
   useEffect(() => {
     const svg = svgRef.current;
@@ -468,7 +493,7 @@ const MapSvg = () => {
           ></path>
         </g>
       </svg>
-      <div>{wilayaSelected? `Wilaya ${wilayaSelected}` : ''}</div>
+      <div>{wilayaSelected? `Wilaya ${wilayasMap.get(wilayaSelected)?.name}` : ''}</div>
       {tooltip.visible && (
         <div
           style={{
