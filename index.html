@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Logo Carousel</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: #f5f5f5;
+            padding: 40px 20px;
+        }
+
+        .carousel-container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .carousel-title {
+            text-align: center;
+            font-size: 2.5rem;
+            font-weight: bold;
+            margin-bottom: 60px;
+            color: #333;
+        }
+
+        .carousel-wrapper {
+            position: relative;
+            height: 280px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+        }
+
+        .carousel-track {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .carousel-item {
+            position: absolute;
+            width: 180px;
+            height: 180px;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 24px;
+            transition: all 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+            cursor: pointer;
+            will-change: transform, filter, opacity;
+        }
+
+        .carousel-item img {
+            max-width: 100%;
+            max-height: 100%;
+            object-fit: contain;
+            transition: transform 0.3s ease;
+        }
+
+        .carousel-item-placeholder {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            gap: 12px;
+            transition: transform 0.3s ease;
+        }
+
+        .carousel-item-number {
+            font-size: 3rem;
+            font-weight: bold;
+            color: #4A90E2;
+            transition: color 0.3s ease;
+        }
+
+        .carousel-item-label {
+            font-size: 0.9rem;
+            color: #666;
+            font-weight: 500;
+        }
+
+        .carousel-track.transitioning .carousel-item {
+            pointer-events: none;
+        }
+
+        .carousel-btn {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 50px;
+            height: 50px;
+            background: white;
+            border: none;
+            border-radius: 50%;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 10;
+            transition: background 0.3s ease;
+        }
+
+        .carousel-btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .carousel-btn:hover {
+            background: #f0f0f0;
+        }
+
+        .carousel-btn.prev {
+            left: 20px;
+        }
+
+        .carousel-btn.next {
+            right: 20px;
+        }
+
+        .carousel-btn svg {
+            width: 24px;
+            height: 24px;
+        }
+
+        .carousel-indicators {
+            display: flex;
+            justify-content: center;
+            gap: 8px;
+            margin-top: 40px;
+        }
+
+        .indicator {
+            width: 8px;
+            height: 8px;
+            background: #ccc;
+            border: none;
+            border-radius: 50%;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .indicator.active {
+            background: #333;
+            width: 32px;
+            border-radius: 4px;
+        }
+
+        .indicator:hover {
+            background: #999;
+        }
+
+        .indicator:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+    </style>
+</head>
+<body>
+    <div class="carousel-container">
+        <h1 class="carousel-title">Nos Partenaires</h1>
+        
+        <div class="carousel-wrapper">
+            <div class="carousel-track" id="carouselTrack"></div>
+            
+            <button class="carousel-btn prev" id="prevBtn" aria-label="Previous">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M15 18l-6-6 6-6"/>
+                </svg>
+            </button>
+            
+            <button class="carousel-btn next" id="nextBtn" aria-label="Next">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M9 18l6-6-6-6"/>
+                </svg>
+            </button>
+        </div>
+
+        <div class="carousel-indicators" id="indicators"></div>
+    </div>
+
+    <script>
+        // Array of logo URLs - set to null to show numbered placeholders, or add image URLs
+        const logos = [
+            null, // Item 1
+            null, // Item 2
+            null, // Item 3
+            null, // Item 4
+            null, // Item 5
+            null, // Item 6
+            null, // Item 7
+            "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFwAAABcCAMAAADUMSJqAAAAmVBMVEX///8YkP8Ykf7///0Ai/0Aif3D4PG02fn8///8//0ckPSz0/kAjv7///oAivoAiPbh8vnE4vfp9fsAg/0AjPby+v2TxfdttvVfrfR6vPqKwPMhlfdhsPDh7/uWyvPC5PTQ6fw5nfSBxPae0vm73vjX7/xPo/aMzPc+ne3L7Pmo2/SgyPR7xPGnzfSn1fSfy+5bqPVzuO3w//jqlyDmAAADlUlEQVRoge2Xa3OqSBCGh7lEwGEAHUQlayCBbLJZPZ79/z9uu3tQSc5WbVWbT6d4P1iA5TPNO30ZhZg1a9asWbNmzfptpVT4VHdR4hUp/vK4Kjf1drtbru6CL7yU3ruHTw+TfZNra6029vGPO4JfuiiKpJ7CVZtGEgVfSG0OfG+WDjETuFJPVsoRHslI+p/8yDUgomnkhSfqFS/dkQ9HxBS+HQMHz8MaUcrd1q9w1Woi6u5w2jRhHf3MdH1p5SdbVA1s2OFdBjdxneOuWs+Ff428w3t7zlQcx0o09Bqm+B74irYzL1WCbPWi4TWk7b8JjjZZXwAavXgwuJZZ8uCL8OvyCqf8swWxlRoM1RgPrgAup/CqocVahU1LwdoINzxbfoGrzmL21GNHfKUaW/MSfYTrHmEU7Z+E8wuK/Iej3GlY7AAHgE+viki6Lod+SytH+UmwEv0CxxZF9Y4Xga6NoQKL7FtyT+Q3JhZkSsZcO5fN35kF+hUOck+dDlfhjVzPnXYq5PlUpq22oyGwomnajA9fG/T2sgIYvQYX2u0Y+9tfsVBJwvSl+Pj4ODQXU/zfy+OxElm/DQ9sd4IAEvagU6psroFH+UJk2dDdvNLpoGIuXKmjkze4dD9Em2JHv+yp9CX/+FLml5QLNHNqpJ1ssrR5wYVXHbGly1OnKft0SEGoqRC+1Gdo7hy2OpgwMfsqKWoDnbyLaDHtz7tXF5wxT8xUDJvZJdi4sp3bFjuK19Yr6FvvaXiLRx58ha1JmvfgalLAapQj57D04Ggpz3JF9AYT4xXCHjoSzYpIt4RLRK1pdgws+BF/bHdwNUCd0jEI4WkVjFDLMAVbFnyJ0x3gCTkwJiVMh7Hgs9B68of/wfy3gi1nBWXpqGTGNjBGnh1MxLelWGMH1wXOea2vDUy/hK/VG5VWzttQ0dCZE5Jjtd9s6ktp2obOWNnLmrbhzKzQvQ3HtwK6dtvdyr7Bqtp7On8Z5gwVqzQ0Ft+9prmlag8rmBzuZRj+zBkKyehGo23wxO29/HT6t+5JMD0X4qe5zEtEuWexsHIyV21+YvYtgQ19Y/wFZtcHeFQ2ZuznFvzqFdsVVHt2GmX8+R0yPhP/7FN6YnT6XIk7/+mq4bh7rHeLAl8kwQNo1T/Xj/WmrKDrsA2/0DOFASIZDcZDY4ZP8b/Lfa7clkDBP4rxAkSOcA8Wv9Cnd/Hox/ewZ82aNWvWrFm/i/4Fw4UvLTgOUEwAAAAASUVORK5CYII="
+        ];
+
+        let currentIndex = 0;
+        const track = document.getElementById('carouselTrack');
+        const indicatorsContainer = document.getElementById('indicators');
+        let autoPlayInterval;
+        const AUTO_PLAY_DELAY = 3000; // 3 seconds
+        let isTransitioning = false;
+        const carouselItems = new Map(); // Cache DOM elements
+
+        function getItemStyle(position) {
+            const scale = position === 0 ? 1 : 1 - Math.abs(position) * 0.2;
+            const opacity = position === 0 ? 1 : 0.6;
+            const zIndex = 5 - Math.abs(position);
+            const translateX = position * 220;
+            const filter = position === 0 ? 'grayscale(0%)' : 'grayscale(100%)';
+
+            return {
+                transform: `translateX(${translateX}px) scale(${scale})`,
+                opacity: opacity,
+                zIndex: zIndex,
+                filter: filter
+            };
+        }
+
+        function getVisibleLogos() {
+            const visible = [];
+            for (let i = -2; i <= 2; i++) {
+                const index = (currentIndex + i + logos.length) % logos.length;
+                visible.push({
+                    logo: logos[index],
+                    position: i,
+                    index: index
+                });
+            }
+            return visible;
+        }
+
+        function createCarouselItem(logo, index) {
+            const item = document.createElement('div');
+            item.className = 'carousel-item';
+            item.dataset.index = index;
+            
+            if (logo) {
+                const img = document.createElement('img');
+                img.src = logo;
+                img.alt = `Logo ${index + 1}`;
+                item.appendChild(img);
+            } else {
+                const placeholder = document.createElement('div');
+                placeholder.className = 'carousel-item-placeholder';
+                
+                const number = document.createElement('div');
+                number.className = 'carousel-item-number';
+                number.textContent = index + 1;
+                
+                const label = document.createElement('div');
+                label.className = 'carousel-item-label';
+                label.textContent = `Item ${index + 1}`;
+                
+                placeholder.appendChild(number);
+                placeholder.appendChild(label);
+                item.appendChild(placeholder);
+            }
+            
+            item.addEventListener('click', () => {
+                const position = parseInt(item.dataset.position);
+                if (position !== 0 && !isTransitioning) {
+                    currentIndex = index;
+                    render();
+                    resetAutoPlay();
+                }
+            });
+            
+            return item;
+        }
+
+        function render() {
+            if (isTransitioning) return;
+            
+            isTransitioning = true;
+            track.classList.add('transitioning');
+            updateButtonStates();
+            
+            const visibleLogos = getVisibleLogos();
+            const visibleIndices = new Set(visibleLogos.map(v => v.index));
+
+            // Remove items that are no longer visible
+            carouselItems.forEach((item, index) => {
+                if (!visibleIndices.has(index)) {
+                    item.remove();
+                    carouselItems.delete(index);
+                }
+            });
+
+            // Update or create items
+            visibleLogos.forEach(({ logo, position, index }) => {
+                let item = carouselItems.get(index);
+                
+                if (!item) {
+                    item = createCarouselItem(logo, index);
+                    carouselItems.set(index, item);
+                    track.appendChild(item);
+                }
+                
+                item.dataset.position = position;
+                const style = getItemStyle(position);
+                Object.assign(item.style, style);
+            });
+
+            updateIndicators();
+            
+            setTimeout(() => {
+                isTransitioning = false;
+                track.classList.remove('transitioning');
+                updateButtonStates();
+            }, 600); // Match transition duration
+        }
+
+        function updateButtonStates() {
+            const prevBtn = document.getElementById('prevBtn');
+            const nextBtn = document.getElementById('nextBtn');
+            const indicators = indicatorsContainer.querySelectorAll('.indicator');
+            
+            prevBtn.disabled = isTransitioning;
+            nextBtn.disabled = isTransitioning;
+            indicators.forEach(indicator => {
+                indicator.disabled = isTransitioning;
+            });
+        }
+
+        function createIndicators() {
+            logos.forEach((_, index) => {
+                const indicator = document.createElement('button');
+                indicator.className = 'indicator';
+                indicator.setAttribute('aria-label', `Go to slide ${index + 1}`);
+                indicator.addEventListener('click', () => {
+                    if (isTransitioning) return;
+                    currentIndex = index;
+                    render();
+                    resetAutoPlay();
+                });
+                indicatorsContainer.appendChild(indicator);
+            });
+        }
+
+        function updateIndicators() {
+            const indicators = indicatorsContainer.querySelectorAll('.indicator');
+            indicators.forEach((indicator, index) => {
+                indicator.classList.toggle('active', index === currentIndex);
+            });
+        }
+
+        function goToPrevious() {
+            if (isTransitioning) return;
+            currentIndex = (currentIndex - 1 + logos.length) % logos.length;
+            render();
+            resetAutoPlay();
+        }
+
+        function goToNext() {
+            if (isTransitioning) return;
+            currentIndex = (currentIndex + 1) % logos.length;
+            render();
+        }
+
+        function startAutoPlay() {
+            stopAutoPlay();
+            autoPlayInterval = setInterval(() => {
+                goToNext();
+            }, AUTO_PLAY_DELAY);
+        }
+
+        function stopAutoPlay() {
+            if (autoPlayInterval) {
+                clearInterval(autoPlayInterval);
+                autoPlayInterval = null;
+            }
+        }
+
+        function resetAutoPlay() {
+            startAutoPlay();
+        }
+
+        document.getElementById('prevBtn').addEventListener('click', goToPrevious);
+        document.getElementById('nextBtn').addEventListener('click', () => {
+            goToNext();
+            resetAutoPlay();
+        });
+
+        // Keyboard navigation
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowLeft') {
+                goToPrevious();
+            }
+            if (e.key === 'ArrowRight') {
+                goToNext();
+                resetAutoPlay();
+            }
+        });
+
+        // Pause on hover
+        const carouselWrapper = document.querySelector('.carousel-wrapper');
+        carouselWrapper.addEventListener('mouseenter', stopAutoPlay);
+        carouselWrapper.addEventListener('mouseleave', startAutoPlay);
+
+        // Initialize
+        createIndicators();
+        render();
+        startAutoPlay();
+    </script>
+</body>
+</html>
